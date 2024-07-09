@@ -1,1 +1,1 @@
-# LIPS-Project
+# LIPS Project
