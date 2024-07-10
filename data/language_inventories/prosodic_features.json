@@ -1,0 +1,8710 @@
+{
+  "kore1280": {
+    "tones": false,
+    "stress": false
+  },
+  "kett1243": {
+    "tones": false,
+    "stress": false
+  },
+  "lakk1252": {
+    "tones": false,
+    "stress": false
+  },
+  "kaba1278": {
+    "tones": false,
+    "stress": false
+  },
+  "nucl1302": {
+    "tones": false,
+    "stress": false
+  },
+  "buru1296": {
+    "tones": false,
+    "stress": false
+  },
+  "kuru1302": {
+    "tones": false,
+    "stress": false
+  },
+  "telu1262": {
+    "tones": false,
+    "stress": false
+  },
+  "kota1263": {
+    "tones": false,
+    "stress": false
+  },
+  "mund1320": {
+    "tones": false,
+    "stress": false
+  },
+  "khar1287": {
+    "tones": false,
+    "stress": false
+  },
+  "khas1269": {
+    "tones": false,
+    "stress": false
+  },
+  "seda1262": {
+    "tones": false,
+    "stress": false
+  },
+  "cent1989": {
+    "tones": false,
+    "stress": false
+  },
+  "viet1252": {
+    "tones": false,
+    "stress": false
+  },
+  "mand1415": {
+    "tones": false,
+    "stress": false
+  },
+  "wuch1236": {
+    "tones": false,
+    "stress": false
+  },
+  "hakk1236": {
+    "tones": false,
+    "stress": false
+  },
+  "yuec1235": {
+    "tones": false,
+    "stress": false
+  },
+  "iumi1238": {
+    "tones": false,
+    "stress": false
+  },
+  "nyis1236": {
+    "tones": false,
+    "stress": false
+  },
+  "nucl1310": {
+    "tones": false,
+    "stress": false
+  },
+  "lahu1253": {
+    "tones": false,
+    "stress": false
+  },
+  "garo1247": {
+    "tones": false,
+    "stress": false
+  },
+  "sgaw1245": {
+    "tones": false,
+    "stress": false
+  },
+  "lakk1238": {
+    "tones": false,
+    "stress": false
+  },
+  "thai1261": {
+    "tones": false,
+    "stress": false
+  },
+  "bouy1240": {
+    "tones": false,
+    "stress": false
+  },
+  "east2563": {
+    "tones": false,
+    "stress": false
+  },
+  "atay1247": {
+    "tones": false,
+    "stress": false
+  },
+  "plat1254": {
+    "tones": false,
+    "stress": false
+  },
+  "stan1306": {
+    "tones": false,
+    "stress": false
+  },
+  "bata1289": {
+    "tones": false,
+    "stress": false
+  },
+  "saba1265": {
+    "tones": false,
+    "stress": false
+  },
+  "sund1252": {
+    "tones": false,
+    "stress": false
+  },
+  "java1254": {
+    "tones": false,
+    "stress": false
+  },
+  "taga1270": {
+    "tones": false,
+    "stress": false
+  },
+  "cham1312": {
+    "tones": false,
+    "stress": false
+  },
+  "iaai1238": {
+    "tones": false,
+    "stress": false
+  },
+  "kali1299": {
+    "tones": false,
+    "stress": false
+  },
+  "adze1240": {
+    "tones": false,
+    "stress": false
+  },
+  "maor1246": {
+    "tones": false,
+    "stress": false
+  },
+  "hawa1245": {
+    "tones": false,
+    "stress": false
+  },
+  "anta1253": {
+    "tones": false,
+    "stress": false
+  },
+  "nyan1301": {
+    "tones": false,
+    "stress": false
+  },
+  "kunj1245": {
+    "tones": false,
+    "stress": false
+  },
+  "mara1386": {
+    "tones": false,
+    "stress": false
+  },
+  "maun1240": {
+    "tones": false,
+    "stress": false
+  },
+  "nung1290": {
+    "tones": false,
+    "stress": false
+  },
+  "alaw1244": {
+    "tones": false,
+    "stress": false
+  },
+  "wikm1247": {
+    "tones": false,
+    "stress": false
+  },
+  "nucl1632": {
+    "tones": false,
+    "stress": false
+  },
+  "kwom1262": {
+    "tones": false,
+    "stress": false
+  },
+  "tamn1235": {
+    "tones": false,
+    "stress": false
+  },
+  "tele1256": {
+    "tones": false,
+    "stress": false
+  },
+  "gads1258": {
+    "tones": false,
+    "stress": false
+  },
+  "awiy1238": {
+    "tones": false,
+    "stress": false
+  },
+  "kuni1267": {
+    "tones": false,
+    "stress": false
+  },
+  "sele1250": {
+    "tones": false,
+    "stress": false
+  },
+  "naas1242": {
+    "tones": false,
+    "stress": false
+  },
+  "aleu1260": {
+    "tones": false,
+    "stress": false
+  },
+  "kala1399": {
+    "tones": false,
+    "stress": false
+  },
+  "chip1261": {
+    "tones": false,
+    "stress": false
+  },
+  "tolo1259": {
+    "tones": false,
+    "stress": false
+  },
+  "hupa1239": {
+    "tones": false,
+    "stress": false
+  },
+  "nava1243": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2956": {
+    "tones": false,
+    "stress": false
+  },
+  "squa1248": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2965": {
+    "tones": false,
+    "stress": false
+  },
+  "nuuc1236": {
+    "tones": false,
+    "stress": false
+  },
+  "kwak1269": {
+    "tones": false,
+    "stress": false
+  },
+  "east2542": {
+    "tones": false,
+    "stress": false
+  },
+  "unam1242": {
+    "tones": false,
+    "stress": false
+  },
+  "wich1260": {
+    "tones": false,
+    "stress": false
+  },
+  "lako1247": {
+    "tones": false,
+    "stress": false
+  },
+  "sene1264": {
+    "tones": false,
+    "stress": false
+  },
+  "onei1249": {
+    "tones": false,
+    "stress": false
+  },
+  "yuch1247": {
+    "tones": false,
+    "stress": false
+  },
+  "alab1237": {
+    "tones": false,
+    "stress": false
+  },
+  "tuni1252": {
+    "tones": false,
+    "stress": false
+  },
+  "nezp1238": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2952": {
+    "tones": false,
+    "stress": false
+  },
+  "copa1236": {
+    "tones": false,
+    "stress": false
+  },
+  "papa1238": {
+    "tones": false,
+    "stress": false
+  },
+  "taba1266": {
+    "tones": false,
+    "stress": false
+  },
+  "tzel1254": {
+    "tones": false,
+    "stress": false
+  },
+  "pure1242": {
+    "tones": false,
+    "stress": false
+  },
+  "karo1304": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2982": {
+    "tones": false,
+    "stress": false
+  },
+  "kumi1248": {
+    "tones": false,
+    "stress": false
+  },
+  "zuni1245": {
+    "tones": false,
+    "stress": false
+  },
+  "picu1248": {
+    "tones": false,
+    "stress": false
+  },
+  "tewa1260": {
+    "tones": false,
+    "stress": false
+  },
+  "luis1253": {
+    "tones": false,
+    "stress": false
+  },
+  "hopi1249": {
+    "tones": false,
+    "stress": false
+  },
+  "toho1245": {
+    "tones": false,
+    "stress": false
+  },
+  "mezq1235": {
+    "tones": false,
+    "stress": false
+  },
+  "cent2144": {
+    "tones": false,
+    "stress": false
+  },
+  "chiq1250": {
+    "tones": false,
+    "stress": false
+  },
+  "sanm1295": {
+    "tones": false,
+    "stress": false
+  },
+  "chac1249": {
+    "tones": false,
+    "stress": false
+  },
+  "paez1247": {
+    "tones": false,
+    "stress": false
+  },
+  "iton1250": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2991": {
+    "tones": false,
+    "stress": false
+  },
+  "jaqa1244": {
+    "tones": false,
+    "stress": false
+  },
+  "mapu1245": {
+    "tones": false,
+    "stress": false
+  },
+  "isla1278": {
+    "tones": false,
+    "stress": false
+  },
+  "wapi1253": {
+    "tones": false,
+    "stress": false
+  },
+  "wayu1243": {
+    "tones": false,
+    "stress": false
+  },
+  "asha1243": {
+    "tones": false,
+    "stress": false
+  },
+  "igna1246": {
+    "tones": false,
+    "stress": false
+  },
+  "yane1238": {
+    "tones": false,
+    "stress": false
+  },
+  "shua1257": {
+    "tones": false,
+    "stress": false
+  },
+  "waim1255": {
+    "tones": false,
+    "stress": false
+  },
+  "ticu1245": {
+    "tones": false,
+    "stress": false
+  },
+  "gali1262": {
+    "tones": false,
+    "stress": false
+  },
+  "ocai1244": {
+    "tones": false,
+    "stress": false
+  },
+  "siri1273": {
+    "tones": false,
+    "stress": false
+  },
+  "para1311": {
+    "tones": false,
+    "stress": false
+  },
+  "amah1246": {
+    "tones": false,
+    "stress": false
+  },
+  "chac1251": {
+    "tones": false,
+    "stress": false
+  },
+  "apin1244": {
+    "tones": false,
+    "stress": false
+  },
+  "tach1250": {
+    "tones": false,
+    "stress": false
+  },
+  "haus1257": {
+    "tones": false,
+    "stress": false
+  },
+  "ngas1240": {
+    "tones": false,
+    "stress": false
+  },
+  "marg1265": {
+    "tones": false,
+    "stress": false
+  },
+  "soma1255": {
+    "tones": false,
+    "stress": false
+  },
+  "awng1244": {
+    "tones": false,
+    "stress": false
+  },
+  "iraq1241": {
+    "tones": false,
+    "stress": false
+  },
+  "tigr1270": {
+    "tones": false,
+    "stress": false
+  },
+  "amha1245": {
+    "tones": false,
+    "stress": false
+  },
+  "egyp1253": {
+    "tones": false,
+    "stress": false
+  },
+  "moro1292": {
+    "tones": false,
+    "stress": false
+  },
+  "malt1254": {
+    "tones": false,
+    "stress": false
+  },
+  "hebr1245": {
+    "tones": false,
+    "stress": false
+  },
+  "katc1250": {
+    "tones": false,
+    "stress": false
+  },
+  "libe1247": {
+    "tones": false,
+    "stress": false
+  },
+  "nucl1347": {
+    "tones": false,
+    "stress": false
+  },
+  "dagb1246": {
+    "tones": false,
+    "stress": false
+  },
+  "akan1250": {
+    "tones": false,
+    "stress": false
+  },
+  "gaaa1244": {
+    "tones": false,
+    "stress": false
+  },
+  "ewee1241": {
+    "tones": false,
+    "stress": false
+  },
+  "nucl1417": {
+    "tones": false,
+    "stress": false
+  },
+  "beem1239": {
+    "tones": false,
+    "stress": false
+  },
+  "swah1253": {
+    "tones": false,
+    "stress": false
+  },
+  "luva1239": {
+    "tones": false,
+    "stress": false
+  },
+  "zulu1248": {
+    "tones": false,
+    "stress": false
+  },
+  "gbay1287": {
+    "tones": false,
+    "stress": false
+  },
+  "koyr1242": {
+    "tones": false,
+    "stress": false
+  },
+  "cent2050": {
+    "tones": false,
+    "stress": false
+  },
+  "lugb1240": {
+    "tones": false,
+    "stress": false
+  },
+  "nobi1240": {
+    "tones": false,
+    "stress": false
+  },
+  "luok1236": {
+    "tones": false,
+    "stress": false
+  },
+  "masa1300": {
+    "tones": false,
+    "stress": false
+  },
+  "nama1265": {
+    "tones": false,
+    "stress": false
+  },
+  "iris1253": {
+    "tones": false,
+    "stress": false
+  },
+  "bret1244": {
+    "tones": false,
+    "stress": false
+  },
+  "icel1247": {
+    "tones": false,
+    "stress": false
+  },
+  "norw1259": {
+    "tones": false,
+    "stress": false
+  },
+  "stan1293": {
+    "tones": false,
+    "stress": false
+  },
+  "stan1295": {
+    "tones": false,
+    "stress": false
+  },
+  "stan1290": {
+    "tones": false,
+    "stress": false
+  },
+  "port1283": {
+    "tones": false,
+    "stress": false
+  },
+  "stan1288": {
+    "tones": false,
+    "stress": false
+  },
+  "roma1327": {
+    "tones": false,
+    "stress": false
+  },
+  "russ1263": {
+    "tones": false,
+    "stress": false
+  },
+  "bulg1262": {
+    "tones": false,
+    "stress": false
+  },
+  "lith1251": {
+    "tones": false,
+    "stress": false
+  },
+  "tosk1239": {
+    "tones": false,
+    "stress": false
+  },
+  "mode1248": {
+    "tones": false,
+    "stress": false
+  },
+  "nucl1235": {
+    "tones": false,
+    "stress": false
+  },
+  "west2369": {
+    "tones": false,
+    "stress": false
+  },
+  "cent1973": {
+    "tones": false,
+    "stress": false
+  },
+  "kash1277": {
+    "tones": false,
+    "stress": false
+  },
+  "panj1256": {
+    "tones": false,
+    "stress": false
+  },
+  "hind1269": {
+    "tones": false,
+    "stress": false
+  },
+  "beng1280": {
+    "tones": false,
+    "stress": false
+  },
+  "sinh1246": {
+    "tones": false,
+    "stress": false
+  },
+  "basq1248": {
+    "tones": false,
+    "stress": false
+  },
+  "finn1318": {
+    "tones": false,
+    "stress": false
+  },
+  "east2328": {
+    "tones": false,
+    "stress": false
+  },
+  "komi1268": {
+    "tones": false,
+    "stress": false
+  },
+  "hung1274": {
+    "tones": false,
+    "stress": false
+  },
+  "khan1273": {
+    "tones": false,
+    "stress": false
+  },
+  "nene1249": {
+    "tones": false,
+    "stress": false
+  },
+  "nucl1301": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2697": {
+    "tones": false,
+    "stress": false
+  },
+  "kirg1245": {
+    "tones": false,
+    "stress": false
+  },
+  "chuv1255": {
+    "tones": false,
+    "stress": false
+  },
+  "yaku1245": {
+    "tones": false,
+    "stress": false
+  },
+  "halh1238": {
+    "tones": false,
+    "stress": false
+  },
+  "even1260": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2745": {
+    "tones": false,
+    "stress": false
+  },
+  "gily1242": {
+    "tones": false,
+    "stress": false
+  },
+  "chuk1273": {
+    "tones": false,
+    "stress": false
+  },
+  "ainu1240": {
+    "tones": false,
+    "stress": false
+  },
+  "nucl1643": {
+    "tones": false,
+    "stress": false
+  },
+  "afad1236": {
+    "tones": false,
+    "stress": false
+  },
+  "achu1247": {
+    "tones": false,
+    "stress": false
+  },
+  "east2379": {
+    "tones": false,
+    "stress": false
+  },
+  "amel1241": {
+    "tones": false,
+    "stress": false
+  },
+  "anga1290": {
+    "tones": false,
+    "stress": false
+  },
+  "aghe1239": {
+    "tones": false,
+    "stress": false
+  },
+  "apro1235": {
+    "tones": false,
+    "stress": false
+  },
+  "ahte1237": {
+    "tones": false,
+    "stress": false
+  },
+  "akaw1239": {
+    "tones": false,
+    "stress": false
+  },
+  "qawa1238": {
+    "tones": false,
+    "stress": false
+  },
+  "alla1248": {
+    "tones": false,
+    "stress": false
+  },
+  "hame1242": {
+    "tones": false,
+    "stress": false
+  },
+  "amoo1242": {
+    "tones": false,
+    "stress": false
+  },
+  "alam1246": {
+    "tones": false,
+    "stress": false
+  },
+  "guer1243": {
+    "tones": false,
+    "stress": false
+  },
+  "ando1256": {
+    "tones": false,
+    "stress": false
+  },
+  "apuc1241": {
+    "tones": false,
+    "stress": false
+  },
+  "arch1244": {
+    "tones": false,
+    "stress": false
+  },
+  "arab1268": {
+    "tones": false,
+    "stress": false
+  },
+  "waor1240": {
+    "tones": false,
+    "stress": false
+  },
+  "avar1256": {
+    "tones": false,
+    "stress": false
+  },
+  "abip1241": {
+    "tones": false,
+    "stress": false
+  },
+  "bash1264": {
+    "tones": false,
+    "stress": false
+  },
+  "bamb1269": {
+    "tones": false,
+    "stress": false
+  },
+  "baat1238": {
+    "tones": false,
+    "stress": false
+  },
+  "bats1242": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2819": {
+    "tones": false,
+    "stress": false
+  },
+  "cent2004": {
+    "tones": false,
+    "stress": false
+  },
+  "bard1255": {
+    "tones": false,
+    "stress": false
+  },
+  "kohu1244": {
+    "tones": false,
+    "stress": false
+  },
+  "indo1317": {
+    "tones": false,
+    "stress": false
+  },
+  "twee1234": {
+    "tones": false,
+    "stress": false
+  },
+  "beja1238": {
+    "tones": false,
+    "stress": false
+  },
+  "dalo1238": {
+    "tones": false,
+    "stress": false
+  },
+  "biss1248": {
+    "tones": false,
+    "stress": false
+  },
+  "baka1277": {
+    "tones": false,
+    "stress": false
+  },
+  "bell1243": {
+    "tones": false,
+    "stress": false
+  },
+  "muin1242": {
+    "tones": false,
+    "stress": false
+  },
+  "bero1242": {
+    "tones": false,
+    "stress": false
+  },
+  "boro1282": {
+    "tones": false,
+    "stress": false
+  },
+  "lave1249": {
+    "tones": false,
+    "stress": false
+  },
+  "brah1256": {
+    "tones": false,
+    "stress": false
+  },
+  "west2397": {
+    "tones": false,
+    "stress": false
+  },
+  "bodo1269": {
+    "tones": false,
+    "stress": false
+  },
+  "bura1267": {
+    "tones": false,
+    "stress": false
+  },
+  "qaqe1238": {
+    "tones": false,
+    "stress": false
+  },
+  "brib1243": {
+    "tones": false,
+    "stress": false
+  },
+  "cadd1256": {
+    "tones": false,
+    "stress": false
+  },
+  "niva1238": {
+    "tones": false,
+    "stress": false
+  },
+  "carn1240": {
+    "tones": false,
+    "stress": false
+  },
+  "nyah1250": {
+    "tones": false,
+    "stress": false
+  },
+  "cacu1241": {
+    "tones": false,
+    "stress": false
+  },
+  "mind1253": {
+    "tones": false,
+    "stress": false
+  },
+  "quio1240": {
+    "tones": false,
+    "stress": false
+  },
+  "cher1273": {
+    "tones": false,
+    "stress": false
+  },
+  "uppe1439": {
+    "tones": false,
+    "stress": false
+  },
+  "chua1250": {
+    "tones": false,
+    "stress": false
+  },
+  "haka1240": {
+    "tones": false,
+    "stress": false
+  },
+  "cofa1242": {
+    "tones": false,
+    "stress": false
+  },
+  "wame1240": {
+    "tones": false,
+    "stress": false
+  },
+  "chua1256": {
+    "tones": false,
+    "stress": false
+  },
+  "tedi1235": {
+    "tones": false,
+    "stress": false
+  },
+  "west2644": {
+    "tones": false,
+    "stress": false
+  },
+  "cube1242": {
+    "tones": false,
+    "stress": false
+  },
+  "cayu1262": {
+    "tones": false,
+    "stress": false
+  },
+  "dang1274": {
+    "tones": false,
+    "stress": false
+  },
+  "dann1241": {
+    "tones": false,
+    "stress": false
+  },
+  "darf1239": {
+    "tones": false,
+    "stress": false
+  },
+  "daha1245": {
+    "tones": false,
+    "stress": false
+  },
+  "dyir1250": {
+    "tones": false,
+    "stress": false
+  },
+  "dier1241": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2815": {
+    "tones": false,
+    "stress": false
+  },
+  "lowe1415": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2735": {
+    "tones": false,
+    "stress": false
+  },
+  "doya1240": {
+    "tones": false,
+    "stress": false
+  },
+  "ruka1240": {
+    "tones": false,
+    "stress": false
+  },
+  "daur1238": {
+    "tones": false,
+    "stress": false
+  },
+  "toro1252": {
+    "tones": false,
+    "stress": false
+  },
+  "dhuw1249": {
+    "tones": false,
+    "stress": false
+  },
+  "jola1263": {
+    "tones": false,
+    "stress": false
+  },
+  "efik1245": {
+    "tones": false,
+    "stress": false
+  },
+  "ekar1243": {
+    "tones": false,
+    "stress": false
+  },
+  "cent2128": {
+    "tones": false,
+    "stress": false
+  },
+  "ejag1239": {
+    "tones": false,
+    "stress": false
+  },
+  "ewon1239": {
+    "tones": false,
+    "stress": false
+  },
+  "eyak1241": {
+    "tones": false,
+    "stress": false
+  },
+  "fasu1242": {
+    "tones": false,
+    "stress": false
+  },
+  "fiji1243": {
+    "tones": false,
+    "stress": false
+  },
+  "fefe1239": {
+    "tones": false,
+    "stress": false
+  },
+  "fuln1247": {
+    "tones": false,
+    "stress": false
+  },
+  "furr1244": {
+    "tones": false,
+    "stress": false
+  },
+  "guib1244": {
+    "tones": false,
+    "stress": false
+  },
+  "gara1269": {
+    "tones": false,
+    "stress": false
+  },
+  "gbag1258": {
+    "tones": false,
+    "stress": false
+  },
+  "qaua1234": {
+    "tones": false,
+    "stress": false
+  },
+  "nana1257": {
+    "tones": false,
+    "stress": false
+  },
+  "dawr1236": {
+    "tones": false,
+    "stress": false
+  },
+  "guah1255": {
+    "tones": false,
+    "stress": false
+  },
+  "guam1248": {
+    "tones": false,
+    "stress": false
+  },
+  "ache1246": {
+    "tones": false,
+    "stress": false
+  },
+  "kuku1273": {
+    "tones": false,
+    "stress": false
+  },
+  "hixk1239": {
+    "tones": false,
+    "stress": false
+  },
+  "hadz1240": {
+    "tones": false,
+    "stress": false
+  },
+  "huas1242": {
+    "tones": false,
+    "stress": false
+  },
+  "sanm1287": {
+    "tones": false,
+    "stress": false
+  },
+  "iban1264": {
+    "tones": false,
+    "stress": false
+  },
+  "izon1238": {
+    "tones": false,
+    "stress": false
+  },
+  "ikkk1242": {
+    "tones": false,
+    "stress": false
+  },
+  "irar1238": {
+    "tones": false,
+    "stress": false
+  },
+  "iran1263": {
+    "tones": false,
+    "stress": false
+  },
+  "isok1239": {
+    "tones": false,
+    "stress": false
+  },
+  "itel1242": {
+    "tones": false,
+    "stress": false
+  },
+  "ivat1242": {
+    "tones": false,
+    "stress": false
+  },
+  "iwam1256": {
+    "tones": false,
+    "stress": false
+  },
+  "popt1235": {
+    "tones": false,
+    "stress": false
+  },
+  "yany1243": {
+    "tones": false,
+    "stress": false
+  },
+  "jebe1250": {
+    "tones": false,
+    "stress": false
+  },
+  "toll1241": {
+    "tones": false,
+    "stress": false
+  },
+  "japr1238": {
+    "tones": false,
+    "stress": false
+  },
+  "kach1280": {
+    "tones": false,
+    "stress": false
+  },
+  "cams1241": {
+    "tones": false,
+    "stress": false
+  },
+  "gras1249": {
+    "tones": false,
+    "stress": false
+  },
+  "kafa1242": {
+    "tones": false,
+    "stress": false
+  },
+  "dera1245": {
+    "tones": false,
+    "stress": false
+  },
+  "kekc1242": {
+    "tones": false,
+    "stress": false
+  },
+  "kera1255": {
+    "tones": false,
+    "stress": false
+  },
+  "koya1251": {
+    "tones": false,
+    "stress": false
+  },
+  "kain1272": {
+    "tones": false,
+    "stress": false
+  },
+  "luuu1242": {
+    "tones": false,
+    "stress": false
+  },
+  "lusi1240": {
+    "tones": false,
+    "stress": false
+  },
+  "kiow1266": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2949": {
+    "tones": false,
+    "stress": false
+  },
+  "khmu1256": {
+    "tones": false,
+    "stress": false
+  },
+  "west2632": {
+    "tones": false,
+    "stress": false
+  },
+  "east2516": {
+    "tones": false,
+    "stress": false
+  },
+  "teke1280": {
+    "tones": false,
+    "stress": false
+  },
+  "klam1254": {
+    "tones": false,
+    "stress": false
+  },
+  "klao1243": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2641": {
+    "tones": false,
+    "stress": false
+  },
+  "dera1248": {
+    "tones": false,
+    "stress": false
+  },
+  "konk1267": {
+    "tones": false,
+    "stress": false
+  },
+  "kpan1246": {
+    "tones": false,
+    "stress": false
+  },
+  "koho1244": {
+    "tones": false,
+    "stress": false
+  },
+  "kory1246": {
+    "tones": false,
+    "stress": false
+  },
+  "kups1238": {
+    "tones": false,
+    "stress": false
+  },
+  "kalk1246": {
+    "tones": false,
+    "stress": false
+  },
+  "juho1239": {
+    "tones": false,
+    "stress": false
+  },
+  "kuna1268": {
+    "tones": false,
+    "stress": false
+  },
+  "bord1248": {
+    "tones": false,
+    "stress": false
+  },
+  "kwai1243": {
+    "tones": false,
+    "stress": false
+  },
+  "lele1264": {
+    "tones": false,
+    "stress": false
+  },
+  "peve1243": {
+    "tones": false,
+    "stress": false
+  },
+  "maxa1247": {
+    "tones": false,
+    "stress": false
+  },
+  "came1252": {
+    "tones": false,
+    "stress": false
+  },
+  "mbum1254": {
+    "tones": false,
+    "stress": false
+  },
+  "maba1277": {
+    "tones": false,
+    "stress": false
+  },
+  "dizi1235": {
+    "tones": false,
+    "stress": false
+  },
+  "mbaa1245": {
+    "tones": false,
+    "stress": false
+  },
+  "mogh1245": {
+    "tones": false,
+    "stress": false
+  },
+  "tuuu1240": {
+    "tones": false,
+    "stress": false
+  },
+  "manc1252": {
+    "tones": false,
+    "stress": false
+  },
+  "morb1239": {
+    "tones": false,
+    "stress": false
+  },
+  "moro1285": {
+    "tones": false,
+    "stress": false
+  },
+  "mull1237": {
+    "tones": false,
+    "stress": false
+  },
+  "dadi1250": {
+    "tones": false,
+    "stress": false
+  },
+  "west2600": {
+    "tones": false,
+    "stress": false
+  },
+  "mara1404": {
+    "tones": false,
+    "stress": false
+  },
+  "toto1305": {
+    "tones": false,
+    "stress": false
+  },
+  "murs1242": {
+    "tones": false,
+    "stress": false
+  },
+  "murr1258": {
+    "tones": false,
+    "stress": false
+  },
+  "kala1377": {
+    "tones": false,
+    "stress": false
+  },
+  "pira1253": {
+    "tones": false,
+    "stress": false
+  },
+  "nucl1240": {
+    "tones": false,
+    "stress": false
+  },
+  "movi1243": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2994": {
+    "tones": false,
+    "stress": false
+  },
+  "minn1241": {
+    "tones": false,
+    "stress": false
+  },
+  "nama1264": {
+    "tones": false,
+    "stress": false
+  },
+  "naxi1245": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2957": {
+    "tones": false,
+    "stress": false
+  },
+  "ndut1239": {
+    "tones": false,
+    "stress": false
+  },
+  "nepa1254": {
+    "tones": false,
+    "stress": false
+  },
+  "newa1246": {
+    "tones": false,
+    "stress": false
+  },
+  "ngiz1242": {
+    "tones": false,
+    "stress": false
+  },
+  "noon1243": {
+    "tones": false,
+    "stress": false
+  },
+  "niel1243": {
+    "tones": false,
+    "stress": false
+  },
+  "ngan1291": {
+    "tones": false,
+    "stress": false
+  },
+  "nucl1633": {
+    "tones": false,
+    "stress": false
+  },
+  "aona1235": {
+    "tones": false,
+    "stress": false
+  },
+  "nara1262": {
+    "tones": false,
+    "stress": false
+  },
+  "nung1283": {
+    "tones": false,
+    "stress": false
+  },
+  "amas1236": {
+    "tones": false,
+    "stress": false
+  },
+  "nyan1313": {
+    "tones": false,
+    "stress": false
+  },
+  "ogbi1239": {
+    "tones": false,
+    "stress": false
+  },
+  "ormu1247": {
+    "tones": false,
+    "stress": false
+  },
+  "paco1243": {
+    "tones": false,
+    "stress": false
+  },
+  "pech1241": {
+    "tones": false,
+    "stress": false
+  },
+  "enap1235": {
+    "tones": false,
+    "stress": false
+  },
+  "pohn1238": {
+    "tones": false,
+    "stress": false
+  },
+  "para1301": {
+    "tones": false,
+    "stress": false
+  },
+  "paiw1248": {
+    "tones": false,
+    "stress": false
+  },
+  "pwon1235": {
+    "tones": false,
+    "stress": false
+  },
+  "quil1240": {
+    "tones": false,
+    "stress": false
+  },
+  "resi1247": {
+    "tones": false,
+    "stress": false
+  },
+  "roto1249": {
+    "tones": false,
+    "stress": false
+  },
+  "waim1251": {
+    "tones": false,
+    "stress": false
+  },
+  "rutu1240": {
+    "tones": false,
+    "stress": false
+  },
+  "sand1273": {
+    "tones": false,
+    "stress": false
+  },
+  "sang1328": {
+    "tones": false,
+    "stress": false
+  },
+  "ceba1235": {
+    "tones": false,
+    "stress": false
+  },
+  "selk1253": {
+    "tones": false,
+    "stress": false
+  },
+  "xiri1243": {
+    "tones": false,
+    "stress": false
+  },
+  "shus1248": {
+    "tones": false,
+    "stress": false
+  },
+  "shas1239": {
+    "tones": false,
+    "stress": false
+  },
+  "epen1239": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2985": {
+    "tones": false,
+    "stress": false
+  },
+  "sali1298": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2674": {
+    "tones": false,
+    "stress": false
+  },
+  "sion1247": {
+    "tones": false,
+    "stress": false
+  },
+  "soqo1240": {
+    "tones": false,
+    "stress": false
+  },
+  "natu1246": {
+    "tones": false,
+    "stress": false
+  },
+  "suen1241": {
+    "tones": false,
+    "stress": false
+  },
+  "savo1255": {
+    "tones": false,
+    "stress": false
+  },
+  "suii1243": {
+    "tones": false,
+    "stress": false
+  },
+  "east2347": {
+    "tones": false,
+    "stress": false
+  },
+  "aika1237": {
+    "tones": false,
+    "stress": false
+  },
+  "gaam1241": {
+    "tones": false,
+    "stress": false
+  },
+  "tulu1258": {
+    "tones": false,
+    "stress": false
+  },
+  "tehu1242": {
+    "tones": false,
+    "stress": false
+  },
+  "timn1235": {
+    "tones": false,
+    "stress": false
+  },
+  "nucl1339": {
+    "tones": false,
+    "stress": false
+  },
+  "tetu1245": {
+    "tones": false,
+    "stress": false
+  },
+  "tiga1245": {
+    "tones": false,
+    "stress": false
+  },
+  "taha1241": {
+    "tones": false,
+    "stress": false
+  },
+  "tiwi1244": {
+    "tones": false,
+    "stress": false
+  },
+  "tiru1241": {
+    "tones": false,
+    "stress": false
+  },
+  "tlin1245": {
+    "tones": false,
+    "stress": false
+  },
+  "talo1250": {
+    "tones": false,
+    "stress": false
+  },
+  "tama1331": {
+    "tones": false,
+    "stress": false
+  },
+  "taca1256": {
+    "tones": false,
+    "stress": false
+  },
+  "lena1238": {
+    "tones": false,
+    "stress": false
+  },
+  "tamp1252": {
+    "tones": false,
+    "stress": false
+  },
+  "acat1239": {
+    "tones": false,
+    "stress": false
+  },
+  "trum1247": {
+    "tones": false,
+    "stress": false
+  },
+  "toar1246": {
+    "tones": false,
+    "stress": false
+  },
+  "tonk1249": {
+    "tones": false,
+    "stress": false
+  },
+  "lish1246": {
+    "tones": false,
+    "stress": false
+  },
+  "nucl1649": {
+    "tones": false,
+    "stress": false
+  },
+  "tsou1248": {
+    "tones": false,
+    "stress": false
+  },
+  "tera1251": {
+    "tones": false,
+    "stress": false
+  },
+  "tuvi1240": {
+    "tones": false,
+    "stress": false
+  },
+  "ngar1284": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2690": {
+    "tones": false,
+    "stress": false
+  },
+  "vani1248": {
+    "tones": false,
+    "stress": false
+  },
+  "mbab1239": {
+    "tones": false,
+    "stress": false
+  },
+  "wapp1239": {
+    "tones": false,
+    "stress": false
+  },
+  "wara1303": {
+    "tones": false,
+    "stress": false
+  },
+  "nucl1620": {
+    "tones": false,
+    "stress": false
+  },
+  "wint1259": {
+    "tones": false,
+    "stress": false
+  },
+  "wiyo1248": {
+    "tones": false,
+    "stress": false
+  },
+  "want1252": {
+    "tones": false,
+    "stress": false
+  },
+  "usan1239": {
+    "tones": false,
+    "stress": false
+  },
+  "kama1365": {
+    "tones": false,
+    "stress": false
+  },
+  "wari1266": {
+    "tones": false,
+    "stress": false
+  },
+  "wara1290": {
+    "tones": false,
+    "stress": false
+  },
+  "bert1248": {
+    "tones": false,
+    "stress": false
+  },
+  "wang1291": {
+    "tones": false,
+    "stress": false
+  },
+  "kawa1283": {
+    "tones": false,
+    "stress": false
+  },
+  "komo1258": {
+    "tones": false,
+    "stress": false
+  },
+  "katc1249": {
+    "tones": false,
+    "stress": false
+  },
+  "yagu1244": {
+    "tones": false,
+    "stress": false
+  },
+  "yaqu1251": {
+    "tones": false,
+    "stress": false
+  },
+  "yucu1253": {
+    "tones": false,
+    "stress": false
+  },
+  "taro1263": {
+    "tones": false,
+    "stress": false
+  },
+  "yaga1260": {
+    "tones": false,
+    "stress": false
+  },
+  "yidi1250": {
+    "tones": false,
+    "stress": false
+  },
+  "yana1271": {
+    "tones": false,
+    "stress": false
+  },
+  "yoru1245": {
+    "tones": false,
+    "stress": false
+  },
+  "yare1248": {
+    "tones": false,
+    "stress": false
+  },
+  "yess1239": {
+    "tones": false,
+    "stress": false
+  },
+  "yuca1254": {
+    "tones": false,
+    "stress": false
+  },
+  "yulu1243": {
+    "tones": false,
+    "stress": false
+  },
+  "nucl1454": {
+    "tones": false,
+    "stress": false
+  },
+  "zand1248": {
+    "tones": false,
+    "stress": false
+  },
+  "abid1235": {
+    "tones": false,
+    "stress": false
+  },
+  "adio1239": {
+    "tones": false,
+    "stress": false
+  },
+  "ajab1235": {
+    "tones": false,
+    "stress": false
+  },
+  "anyi1244": {
+    "tones": false,
+    "stress": false
+  },
+  "igoo1238": {
+    "tones": false,
+    "stress": false
+  },
+  "akoo1248": {
+    "tones": false,
+    "stress": false
+  },
+  "anuf1239": {
+    "tones": false,
+    "stress": false
+  },
+  "suda1236": {
+    "tones": false,
+    "stress": false
+  },
+  "avok1242": {
+    "tones": false,
+    "stress": false
+  },
+  "veng1238": {
+    "tones": false,
+    "stress": false
+  },
+  "bafu1246": {
+    "tones": false,
+    "stress": false
+  },
+  "baka1272": {
+    "tones": false,
+    "stress": false
+  },
+  "band1345": {
+    "tones": false,
+    "stress": false
+  },
+  "band1352": {
+    "tones": false,
+    "stress": false
+  },
+  "baou1238": {
+    "tones": false,
+    "stress": false
+  },
+  "basa1284": {
+    "tones": false,
+    "stress": false
+  },
+  "nucl1418": {
+    "tones": false,
+    "stress": false
+  },
+  "ntch1242": {
+    "tones": false,
+    "stress": false
+  },
+  "gagn1235": {
+    "tones": false,
+    "stress": false
+  },
+  "bekw1241": {
+    "tones": false,
+    "stress": false
+  },
+  "beng1286": {
+    "tones": false,
+    "stress": false
+  },
+  "bhel1238": {
+    "tones": false,
+    "stress": false
+  },
+  "bial1238": {
+    "tones": false,
+    "stress": false
+  },
+  "bimo1239": {
+    "tones": false,
+    "stress": false
+  },
+  "boko1266": {
+    "tones": false,
+    "stress": false
+  },
+  "hain1253": {
+    "tones": false,
+    "stress": false
+  },
+  "bulu1251": {
+    "tones": false,
+    "stress": false
+  },
+  "cerm1238": {
+    "tones": false,
+    "stress": false
+  },
+  "chum1261": {
+    "tones": false,
+    "stress": false
+  },
+  "nucl1683": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2789": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2780": {
+    "tones": false,
+    "stress": false
+  },
+  "adan1247": {
+    "tones": false,
+    "stress": false
+  },
+  "daza1242": {
+    "tones": false,
+    "stress": false
+  },
+  "lako1244": {
+    "tones": false,
+    "stress": false
+  },
+  "dyul1238": {
+    "tones": false,
+    "stress": false
+  },
+  "dita1238": {
+    "tones": false,
+    "stress": false
+  },
+  "dual1243": {
+    "tones": false,
+    "stress": false
+  },
+  "duru1249": {
+    "tones": false,
+    "stress": false
+  },
+  "ebir1243": {
+    "tones": false,
+    "stress": false
+  },
+  "bini1246": {
+    "tones": false,
+    "stress": false
+  },
+  "ezaa1238": {
+    "tones": false,
+    "stress": false
+  },
+  "emai1241": {
+    "tones": false,
+    "stress": false
+  },
+  "enge1239": {
+    "tones": false,
+    "stress": false
+  },
+  "fonn1241": {
+    "tones": false,
+    "stress": false
+  },
+  "adam1253": {
+    "tones": false,
+    "stress": false
+  },
+  "cent2018": {
+    "tones": false,
+    "stress": false
+  },
+  "maas1239": {
+    "tones": false,
+    "stress": false
+  },
+  "west2454": {
+    "tones": false,
+    "stress": false
+  },
+  "fuli1240": {
+    "tones": false,
+    "stress": false
+  },
+  "ngan1299": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2775": {
+    "tones": false,
+    "stress": false
+  },
+  "genn1243": {
+    "tones": false,
+    "stress": false
+  },
+  "godi1239": {
+    "tones": false,
+    "stress": false
+  },
+  "gonj1241": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2810": {
+    "tones": false,
+    "stress": false
+  },
+  "gude1246": {
+    "tones": false,
+    "stress": false
+  },
+  "gour1243": {
+    "tones": false,
+    "stress": false
+  },
+  "hang1258": {
+    "tones": false,
+    "stress": false
+  },
+  "ifee1241": {
+    "tones": false,
+    "stress": false
+  },
+  "iged1239": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2774": {
+    "tones": false,
+    "stress": false
+  },
+  "ikwo1238": {
+    "tones": false,
+    "stress": false
+  },
+  "izii1239": {
+    "tones": false,
+    "stress": false
+  },
+  "jurm1239": {
+    "tones": false,
+    "stress": false
+  },
+  "kabi1261": {
+    "tones": false,
+    "stress": false
+  },
+  "kako1242": {
+    "tones": false,
+    "stress": false
+  },
+  "baan1242": {
+    "tones": false,
+    "stress": false
+  },
+  "west2466": {
+    "tones": false,
+    "stress": false
+  },
+  "kara1478": {
+    "tones": false,
+    "stress": false
+  },
+  "kase1253": {
+    "tones": false,
+    "stress": false
+  },
+  "koon1245": {
+    "tones": false,
+    "stress": false
+  },
+  "kiku1240": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2765": {
+    "tones": false,
+    "stress": false
+  },
+  "komc1235": {
+    "tones": false,
+    "stress": false
+  },
+  "komo1260": {
+    "tones": false,
+    "stress": false
+  },
+  "konk1269": {
+    "tones": false,
+    "stress": false
+  },
+  "guin1254": {
+    "tones": false,
+    "stress": false
+  },
+  "gbay1288": {
+    "tones": false,
+    "stress": false
+  },
+  "krio1253": {
+    "tones": false,
+    "stress": false
+  },
+  "tepo1239": {
+    "tones": false,
+    "stress": false
+  },
+  "kuri1259": {
+    "tones": false,
+    "stress": false
+  },
+  "kusa1250": {
+    "tones": false,
+    "stress": false
+  },
+  "lama1275": {
+    "tones": false,
+    "stress": false
+  },
+  "lele1276": {
+    "tones": false,
+    "stress": false
+  },
+  "lend1245": {
+    "tones": false,
+    "stress": false
+  },
+  "loma1260": {
+    "tones": false,
+    "stress": false
+  },
+  "loko1255": {
+    "tones": false,
+    "stress": false
+  },
+  "ligb1244": {
+    "tones": false,
+    "stress": false
+  },
+  "west2450": {
+    "tones": false,
+    "stress": false
+  },
+  "limb1268": {
+    "tones": false,
+    "stress": false
+  },
+  "ling1263": {
+    "tones": false,
+    "stress": false
+  },
+  "lukp1238": {
+    "tones": false,
+    "stress": false
+  },
+  "gand1255": {
+    "tones": false,
+    "stress": false
+  },
+  "lyel1241": {
+    "tones": false,
+    "stress": false
+  },
+  "nige1255": {
+    "tones": false,
+    "stress": false
+  },
+  "mamp1244": {
+    "tones": false,
+    "stress": false
+  },
+  "west2500": {
+    "tones": false,
+    "stress": false
+  },
+  "east2426": {
+    "tones": false,
+    "stress": false
+  },
+  "mang1394": {
+    "tones": false,
+    "stress": false
+  },
+  "kita1249": {
+    "tones": false,
+    "stress": false
+  },
+  "mund1326": {
+    "tones": false,
+    "stress": false
+  },
+  "cros1244": {
+    "tones": false,
+    "stress": false
+  },
+  "mboc1235": {
+    "tones": false,
+    "stress": false
+  },
+  "maka1304": {
+    "tones": false,
+    "stress": false
+  },
+  "mend1266": {
+    "tones": false,
+    "stress": false
+  },
+  "meta1238": {
+    "tones": false,
+    "stress": false
+  },
+  "mama1271": {
+    "tones": false,
+    "stress": false
+  },
+  "degg1238": {
+    "tones": false,
+    "stress": false
+  },
+  "mofu1248": {
+    "tones": false,
+    "stress": false
+  },
+  "moss1236": {
+    "tones": false,
+    "stress": false
+  },
+  "mwan1250": {
+    "tones": false,
+    "stress": false
+  },
+  "mund1327": {
+    "tones": false,
+    "stress": false
+  },
+  "kitu1245": {
+    "tones": false,
+    "stress": false
+  },
+  "murl1244": {
+    "tones": false,
+    "stress": false
+  },
+  "mwag1236": {
+    "tones": false,
+    "stress": false
+  },
+  "nafa1258": {
+    "tones": false,
+    "stress": false
+  },
+  "nawd1238": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2784": {
+    "tones": false,
+    "stress": false
+  },
+  "noma1260": {
+    "tones": false,
+    "stress": false
+  },
+  "ngam1268": {
+    "tones": false,
+    "stress": false
+  },
+  "ngba1285": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2774": {
+    "tones": false,
+    "stress": false
+  },
+  "ngie1241": {
+    "tones": false,
+    "stress": false
+  },
+  "nyab1255": {
+    "tones": false,
+    "stress": false
+  },
+  "lamn1239": {
+    "tones": false,
+    "stress": false
+  },
+  "nugu1242": {
+    "tones": false,
+    "stress": false
+  },
+  "nupe1254": {
+    "tones": false,
+    "stress": false
+  },
+  "pand1265": {
+    "tones": false,
+    "stress": false
+  },
+  "park1239": {
+    "tones": false,
+    "stress": false
+  },
+  "pula1263": {
+    "tones": false,
+    "stress": false
+  },
+  "pula1262": {
+    "tones": false,
+    "stress": false
+  },
+  "rend1243": {
+    "tones": false,
+    "stress": false
+  },
+  "saba1262": {
+    "tones": false,
+    "stress": false
+  },
+  "sena1262": {
+    "tones": false,
+    "stress": false
+  },
+  "sere1260": {
+    "tones": false,
+    "stress": false
+  },
+  "siss1242": {
+    "tones": false,
+    "stress": false
+  },
+  "koyr1240": {
+    "tones": false,
+    "stress": false
+  },
+  "soni1259": {
+    "tones": false,
+    "stress": false
+  },
+  "susu1250": {
+    "tones": false,
+    "stress": false
+  },
+  "tawa1286": {
+    "tones": false,
+    "stress": false
+  },
+  "tama1365": {
+    "tones": false,
+    "stress": false
+  },
+  "teen1242": {
+    "tones": false,
+    "stress": false
+  },
+  "teda1241": {
+    "tones": false,
+    "stress": false
+  },
+  "temm1241": {
+    "tones": false,
+    "stress": false
+  },
+  "tofi1235": {
+    "tones": false,
+    "stress": false
+  },
+  "tika1246": {
+    "tones": false,
+    "stress": false
+  },
+  "topo1242": {
+    "tones": false,
+    "stress": false
+  },
+  "tour1242": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2787": {
+    "tones": false,
+    "stress": false
+  },
+  "vagl1239": {
+    "tones": false,
+    "stress": false
+  },
+  "vute1244": {
+    "tones": false,
+    "stress": false
+  },
+  "waam1244": {
+    "tones": false,
+    "stress": false
+  },
+  "wann1242": {
+    "tones": false,
+    "stress": false
+  },
+  "weno1238": {
+    "tones": false,
+    "stress": false
+  },
+  "yamb1251": {
+    "tones": false,
+    "stress": false
+  },
+  "yamb1252": {
+    "tones": false,
+    "stress": false
+  },
+  "yaou1238": {
+    "tones": false,
+    "stress": false
+  },
+  "yemb1246": {
+    "tones": false,
+    "stress": false
+  },
+  "yomm1242": {
+    "tones": false,
+    "stress": false
+  },
+  "zarm1239": {
+    "tones": false,
+    "stress": false
+  },
+  "zulg1242": {
+    "tones": false,
+    "stress": false
+  },
+  "fwee1238": {
+    "tones": false,
+    "stress": false
+  },
+  "yeyi1239": {
+    "tones": false,
+    "stress": false
+  },
+  "cavi1250": {
+    "tones": false,
+    "stress": false
+  },
+  "cham1318": {
+    "tones": false,
+    "stress": false
+  },
+  "chec1245": {
+    "tones": false,
+    "stress": false
+  },
+  "chep1245": {
+    "tones": false,
+    "stress": false
+  },
+  "leal1235": {
+    "tones": false,
+    "stress": false
+  },
+  "chol1282": {
+    "tones": false,
+    "stress": false
+  },
+  "chra1242": {
+    "tones": false,
+    "stress": false
+  },
+  "barb1263": {
+    "tones": false,
+    "stress": false
+  },
+  "coeu1236": {
+    "tones": false,
+    "stress": false
+  },
+  "coma1245": {
+    "tones": false,
+    "stress": false
+  },
+  "cupe1243": {
+    "tones": false,
+    "stress": false
+  },
+  "cuvo1236": {
+    "tones": false,
+    "stress": false
+  },
+  "deny1238": {
+    "tones": false,
+    "stress": false
+  },
+  "nepa1253": {
+    "tones": false,
+    "stress": false
+  },
+  "mufi1238": {
+    "tones": false,
+    "stress": false
+  },
+  "usar1243": {
+    "tones": false,
+    "stress": false
+  },
+  "kora1295": {
+    "tones": false,
+    "stress": false
+  },
+  "binu1245": {
+    "tones": false,
+    "stress": false
+  },
+  "eggo1239": {
+    "tones": false,
+    "stress": false
+  },
+  "ekpe1253": {
+    "tones": false,
+    "stress": false
+  },
+  "endo1242": {
+    "tones": false,
+    "stress": false
+  },
+  "esim1238": {
+    "tones": false,
+    "stress": false
+  },
+  "fang1246": {
+    "tones": false,
+    "stress": false
+  },
+  "furu1242": {
+    "tones": false,
+    "stress": false
+  },
+  "kara1476": {
+    "tones": false,
+    "stress": false
+  },
+  "gbar1246": {
+    "tones": false,
+    "stress": false
+  },
+  "goli1247": {
+    "tones": false,
+    "stress": false
+  },
+  "guaj1255": {
+    "tones": false,
+    "stress": false
+  },
+  "gunw1252": {
+    "tones": false,
+    "stress": false
+  },
+  "haya1250": {
+    "tones": false,
+    "stress": false
+  },
+  "huro1249": {
+    "tones": false,
+    "stress": false
+  },
+  "huic1243": {
+    "tones": false,
+    "stress": false
+  },
+  "huay1240": {
+    "tones": false,
+    "stress": false
+  },
+  "jauj1238": {
+    "tones": false,
+    "stress": false
+  },
+  "luya1241": {
+    "tones": false,
+    "stress": false
+  },
+  "iban1261": {
+    "tones": false,
+    "stress": false
+  },
+  "imon1245": {
+    "tones": false,
+    "stress": false
+  },
+  "ingu1240": {
+    "tones": false,
+    "stress": false
+  },
+  "kris1246": {
+    "tones": false,
+    "stress": false
+  },
+  "yalu1240": {
+    "tones": false,
+    "stress": false
+  },
+  "izer1241": {
+    "tones": false,
+    "stress": false
+  },
+  "jama1261": {
+    "tones": false,
+    "stress": false
+  },
+  "jeme1245": {
+    "tones": false,
+    "stress": false
+  },
+  "liji1238": {
+    "tones": false,
+    "stress": false
+  },
+  "kaby1243": {
+    "tones": false,
+    "stress": false
+  },
+  "gida1247": {
+    "tones": false,
+    "stress": false
+  },
+  "kaya1329": {
+    "tones": false,
+    "stress": false
+  },
+  "kama1367": {
+    "tones": false,
+    "stress": false
+  },
+  "kano1245": {
+    "tones": false,
+    "stress": false
+  },
+  "kens1251": {
+    "tones": false,
+    "stress": false
+  },
+  "east2398": {
+    "tones": false,
+    "stress": false
+  },
+  "kari1301": {
+    "tones": false,
+    "stress": false
+  },
+  "keny1279": {
+    "tones": false,
+    "stress": false
+  },
+  "chon1284": {
+    "tones": false,
+    "stress": false
+  },
+  "kiny1244": {
+    "tones": false,
+    "stress": false
+  },
+  "kiri1254": {
+    "tones": false,
+    "stress": false
+  },
+  "koko1269": {
+    "tones": false,
+    "stress": false
+  },
+  "bako1250": {
+    "tones": false,
+    "stress": false
+  },
+  "konn1242": {
+    "tones": false,
+    "stress": false
+  },
+  "kuay1244": {
+    "tones": false,
+    "stress": false
+  },
+  "kulu1253": {
+    "tones": false,
+    "stress": false
+  },
+  "kuot1243": {
+    "tones": false,
+    "stress": false
+  },
+  "kusu1250": {
+    "tones": false,
+    "stress": false
+  },
+  "kuvi1243": {
+    "tones": false,
+    "stress": false
+  },
+  "kwaz1243": {
+    "tones": false,
+    "stress": false
+  },
+  "lada1244": {
+    "tones": false,
+    "stress": false
+  },
+  "lang1320": {
+    "tones": false,
+    "stress": false
+  },
+  "laoo1244": {
+    "tones": false,
+    "stress": false
+  },
+  "lavu1241": {
+    "tones": false,
+    "stress": false
+  },
+  "bafa1247": {
+    "tones": false,
+    "stress": false
+  },
+  "lund1266": {
+    "tones": false,
+    "stress": false
+  },
+  "luch1239": {
+    "tones": false,
+    "stress": false
+  },
+  "orok1266": {
+    "tones": false,
+    "stress": false
+  },
+  "mace1250": {
+    "tones": false,
+    "stress": false
+  },
+  "mada1293": {
+    "tones": false,
+    "stress": false
+  },
+  "madi1260": {
+    "tones": false,
+    "stress": false
+  },
+  "mana1295": {
+    "tones": false,
+    "stress": false
+  },
+  "bame1260": {
+    "tones": false,
+    "stress": false
+  },
+  "mana1288": {
+    "tones": false,
+    "stress": false
+  },
+  "ngem1255": {
+    "tones": false,
+    "stress": false
+  },
+  "mara1385": {
+    "tones": false,
+    "stress": false
+  },
+  "maib1239": {
+    "tones": false,
+    "stress": false
+  },
+  "gbay1281": {
+    "tones": false,
+    "stress": false
+  },
+  "medu1238": {
+    "tones": false,
+    "stress": false
+  },
+  "ming1252": {
+    "tones": false,
+    "stress": false
+  },
+  "mmen1238": {
+    "tones": false,
+    "stress": false
+  },
+  "moke1242": {
+    "tones": false,
+    "stress": false
+  },
+  "mose1249": {
+    "tones": false,
+    "stress": false
+  },
+  "mpon1254": {
+    "tones": false,
+    "stress": false
+  },
+  "mung1266": {
+    "tones": false,
+    "stress": false
+  },
+  "mvum1238": {
+    "tones": false,
+    "stress": false
+  },
+  "motl1237": {
+    "tones": false,
+    "stress": false
+  },
+  "nami1256": {
+    "tones": false,
+    "stress": false
+  },
+  "ndem1249": {
+    "tones": false,
+    "stress": false
+  },
+  "mesc1238": {
+    "tones": false,
+    "stress": false
+  },
+  "quec1382": {
+    "tones": false,
+    "stress": false
+  },
+  "nank1250": {
+    "tones": false,
+    "stress": false
+  },
+  "nand1266": {
+    "tones": false,
+    "stress": false
+  },
+  "kima1246": {
+    "tones": false,
+    "stress": false
+  },
+  "naki1238": {
+    "tones": false,
+    "stress": false
+  },
+  "mich1245": {
+    "tones": false,
+    "stress": false
+  },
+  "naga1394": {
+    "tones": false,
+    "stress": false
+  },
+  "ngos1238": {
+    "tones": false,
+    "stress": false
+  },
+  "ngal1293": {
+    "tones": false,
+    "stress": false
+  },
+  "nang1259": {
+    "tones": false,
+    "stress": false
+  },
+  "ngom1272": {
+    "tones": false,
+    "stress": false
+  },
+  "ngom1271": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2684": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2954": {
+    "tones": false,
+    "stress": false
+  },
+  "nubi1253": {
+    "tones": false,
+    "stress": false
+  },
+  "nuer1246": {
+    "tones": false,
+    "stress": false
+  },
+  "elip1238": {
+    "tones": false,
+    "stress": false
+  },
+  "nyam1276": {
+    "tones": false,
+    "stress": false
+  },
+  "nyeu1238": {
+    "tones": false,
+    "stress": false
+  },
+  "obol1243": {
+    "tones": false,
+    "stress": false
+  },
+  "mian1257": {
+    "tones": false,
+    "stress": false
+  },
+  "faiw1243": {
+    "tones": false,
+    "stress": false
+  },
+  "okuu1243": {
+    "tones": false,
+    "stress": false
+  },
+  "osse1243": {
+    "tones": false,
+    "stress": false
+  },
+  "pala1344": {
+    "tones": false,
+    "stress": false
+  },
+  "orok1269": {
+    "tones": false,
+    "stress": false
+  },
+  "yill1241": {
+    "tones": false,
+    "stress": false
+  },
+  "ning1273": {
+    "tones": false,
+    "stress": false
+  },
+  "dobu1241": {
+    "tones": false,
+    "stress": false
+  },
+  "samo1303": {
+    "tones": false,
+    "stress": false
+  },
+  "urii1240": {
+    "tones": false,
+    "stress": false
+  },
+  "boik1241": {
+    "tones": false,
+    "stress": false
+  },
+  "phai1238": {
+    "tones": false,
+    "stress": false
+  },
+  "mall1246": {
+    "tones": false,
+    "stress": false
+  },
+  "rama1270": {
+    "tones": false,
+    "stress": false
+  },
+  "matb1237": {
+    "tones": false,
+    "stress": false
+  },
+  "rund1242": {
+    "tones": false,
+    "stress": false
+  },
+  "nyan1307": {
+    "tones": false,
+    "stress": false
+  },
+  "marw1260": {
+    "tones": false,
+    "stress": false
+  },
+  "samb1305": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2844": {
+    "tones": false,
+    "stress": false
+  },
+  "samr1245": {
+    "tones": false,
+    "stress": false
+  },
+  "saba1268": {
+    "tones": false,
+    "stress": false
+  },
+  "saan1246": {
+    "tones": false,
+    "stress": false
+  },
+  "sasa1249": {
+    "tones": false,
+    "stress": false
+  },
+  "sora1254": {
+    "tones": false,
+    "stress": false
+  },
+  "sayu1241": {
+    "tones": false,
+    "stress": false
+  },
+  "seco1241": {
+    "tones": false,
+    "stress": false
+  },
+  "taro1264": {
+    "tones": false,
+    "stress": false
+  },
+  "seim1238": {
+    "tones": false,
+    "stress": false
+  },
+  "seme1247": {
+    "tones": false,
+    "stress": false
+  },
+  "serr1255": {
+    "tones": false,
+    "stress": false
+  },
+  "shab1252": {
+    "tones": false,
+    "stress": false
+  },
+  "yawa1260": {
+    "tones": false,
+    "stress": false
+  },
+  "mako1251": {
+    "tones": false,
+    "stress": false
+  },
+  "shon1251": {
+    "tones": false,
+    "stress": false
+  },
+  "bamu1253": {
+    "tones": false,
+    "stress": false
+  },
+  "siar1238": {
+    "tones": false,
+    "stress": false
+  },
+  "sera1259": {
+    "tones": false,
+    "stress": false
+  },
+  "shaw1249": {
+    "tones": false,
+    "stress": false
+  },
+  "nucl1634": {
+    "tones": false,
+    "stress": false
+  },
+  "aheu1239": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2856": {
+    "tones": false,
+    "stress": false
+  },
+  "spok1245": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2807": {
+    "tones": false,
+    "stress": false
+  },
+  "sata1237": {
+    "tones": false,
+    "stress": false
+  },
+  "ulwa1239": {
+    "tones": false,
+    "stress": false
+  },
+  "hupd1244": {
+    "tones": false,
+    "stress": false
+  },
+  "chim1300": {
+    "tones": false,
+    "stress": false
+  },
+  "loxi1235": {
+    "tones": false,
+    "stress": false
+  },
+  "yuki1243": {
+    "tones": false,
+    "stress": false
+  },
+  "yape1248": {
+    "tones": false,
+    "stress": false
+  },
+  "yuro1248": {
+    "tones": false,
+    "stress": false
+  },
+  "yura1255": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2750": {
+    "tones": false,
+    "stress": false
+  },
+  "nucl1290": {
+    "tones": false,
+    "stress": false
+  },
+  "wamb1259": {
+    "tones": false,
+    "stress": false
+  },
+  "wash1253": {
+    "tones": false,
+    "stress": false
+  },
+  "waya1269": {
+    "tones": false,
+    "stress": false
+  },
+  "woge1237": {
+    "tones": false,
+    "stress": false
+  },
+  "huar1255": {
+    "tones": false,
+    "stress": false
+  },
+  "vaii1241": {
+    "tones": false,
+    "stress": false
+  },
+  "ukra1253": {
+    "tones": false,
+    "stress": false
+  },
+  "phal1254": {
+    "tones": false,
+    "stress": false
+  },
+  "east2440": {
+    "tones": false,
+    "stress": false
+  },
+  "tapi1253": {
+    "tones": false,
+    "stress": false
+  },
+  "baru1269": {
+    "tones": false,
+    "stress": false
+  },
+  "tatu1247": {
+    "tones": false,
+    "stress": false
+  },
+  "tagw1240": {
+    "tones": false,
+    "stress": false
+  },
+  "maza1291": {
+    "tones": false,
+    "stress": false
+  },
+  "paok1235": {
+    "tones": false,
+    "stress": false
+  },
+  "tern1247": {
+    "tones": false,
+    "stress": false
+  },
+  "toba1269": {
+    "tones": false,
+    "stress": false
+  },
+  "poli1260": {
+    "tones": false,
+    "stress": false
+  },
+  "kala1381": {
+    "tones": false,
+    "stress": false
+  },
+  "east2295": {
+    "tones": false,
+    "stress": false
+  },
+  "dutc1256": {
+    "tones": false,
+    "stress": false
+  },
+  "malo1243": {
+    "tones": false,
+    "stress": false
+  },
+  "gayo1244": {
+    "tones": false,
+    "stress": false
+  },
+  "jama1262": {
+    "tones": false,
+    "stress": false
+  },
+  "mamb1294": {
+    "tones": false,
+    "stress": false
+  },
+  "arag1245": {
+    "tones": false,
+    "stress": false
+  },
+  "tilq1235": {
+    "tones": false,
+    "stress": false
+  },
+  "ibib1240": {
+    "tones": false,
+    "stress": false
+  },
+  "tami1289": {
+    "tones": false,
+    "stress": false
+  },
+  "zoog1238": {
+    "tones": false,
+    "stress": false
+  },
+  "baga1273": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2895": {
+    "tones": false,
+    "stress": false
+  },
+  "sela1259": {
+    "tones": false,
+    "stress": false
+  },
+  "tsuv1239": {
+    "tones": false,
+    "stress": false
+  },
+  "hang1263": {
+    "tones": false,
+    "stress": false
+  },
+  "blan1242": {
+    "tones": false,
+    "stress": false
+  },
+  "tata1257": {
+    "tones": false,
+    "stress": false
+  },
+  "tibe1272": {
+    "tones": false,
+    "stress": false
+  },
+  "chee1238": {
+    "tones": false,
+    "stress": false
+  },
+  "pagi1243": {
+    "tones": false,
+    "stress": false
+  },
+  "choc1276": {
+    "tones": false,
+    "stress": false
+  },
+  "mich1243": {
+    "tones": false,
+    "stress": false
+  },
+  "pila1245": {
+    "tones": false,
+    "stress": false
+  },
+  "bani1255": {
+    "tones": false,
+    "stress": false
+  },
+  "kari1311": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2943": {
+    "tones": false,
+    "stress": false
+  },
+  "sanj1284": {
+    "tones": false,
+    "stress": false
+  },
+  "tzot1259": {
+    "tones": false,
+    "stress": false
+  },
+  "sida1246": {
+    "tones": false,
+    "stress": false
+  },
+  "west2560": {
+    "tones": false,
+    "stress": false
+  },
+  "chim1301": {
+    "tones": false,
+    "stress": false
+  },
+  "hueh1236": {
+    "tones": false,
+    "stress": false
+  },
+  "utes1238": {
+    "tones": false,
+    "stress": false
+  },
+  "dupa1235": {
+    "tones": false,
+    "stress": false
+  },
+  "tong1325": {
+    "tones": false,
+    "stress": false
+  },
+  "lake1258": {
+    "tones": false,
+    "stress": false
+  },
+  "lazz1240": {
+    "tones": false,
+    "stress": false
+  },
+  "juan1238": {
+    "tones": false,
+    "stress": false
+  },
+  "adan1251": {
+    "tones": false,
+    "stress": false
+  },
+  "ambe1247": {
+    "tones": false,
+    "stress": false
+  },
+  "apur1254": {
+    "tones": false,
+    "stress": false
+  },
+  "achi1257": {
+    "tones": false,
+    "stress": false
+  },
+  "anti1245": {
+    "tones": false,
+    "stress": false
+  },
+  "akla1241": {
+    "tones": false,
+    "stress": false
+  },
+  "arhu1242": {
+    "tones": false,
+    "stress": false
+  },
+  "karo1306": {
+    "tones": false,
+    "stress": false
+  },
+  "liby1240": {
+    "tones": false,
+    "stress": false
+  },
+  "bond1245": {
+    "tones": false,
+    "stress": false
+  },
+  "bike1242": {
+    "tones": false,
+    "stress": false
+  },
+  "siks1238": {
+    "tones": false,
+    "stress": false
+  },
+  "bilo1248": {
+    "tones": false,
+    "stress": false
+  },
+  "beli1260": {
+    "tones": false,
+    "stress": false
+  },
+  "koas1236": {
+    "tones": false,
+    "stress": false
+  },
+  "como1259": {
+    "tones": false,
+    "stress": false
+  },
+  "soch1239": {
+    "tones": false,
+    "stress": false
+  },
+  "diml1238": {
+    "tones": false,
+    "stress": false
+  },
+  "yekh1238": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2626": {
+    "tones": false,
+    "stress": false
+  },
+  "guja1253": {
+    "tones": false,
+    "stress": false
+  },
+  "guan1269": {
+    "tones": false,
+    "stress": false
+  },
+  "hung1278": {
+    "tones": false,
+    "stress": false
+  },
+  "halk1245": {
+    "tones": false,
+    "stress": false
+  },
+  "ilok1237": {
+    "tones": false,
+    "stress": false
+  },
+  "kadi1248": {
+    "tones": false,
+    "stress": false
+  },
+  "kute1248": {
+    "tones": false,
+    "stress": false
+  },
+  "awac1239": {
+    "tones": false,
+    "stress": false
+  },
+  "lisu1250": {
+    "tones": false,
+    "stress": false
+  },
+  "loni1238": {
+    "tones": false,
+    "stress": false
+  },
+  "mola1238": {
+    "tones": false,
+    "stress": false
+  },
+  "mats1244": {
+    "tones": false,
+    "stress": false
+  },
+  "mani1292": {
+    "tones": false,
+    "stress": false
+  },
+  "mand1436": {
+    "tones": false,
+    "stress": false
+  },
+  "moco1246": {
+    "tones": false,
+    "stress": false
+  },
+  "mamm1241": {
+    "tones": false,
+    "stress": false
+  },
+  "mund1330": {
+    "tones": false,
+    "stress": false
+  },
+  "nisg1240": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2627": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2984": {
+    "tones": false,
+    "stress": false
+  },
+  "pana1305": {
+    "tones": false,
+    "stress": false
+  },
+  "nige1257": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2966": {
+    "tones": false,
+    "stress": false
+  },
+  "texi1237": {
+    "tones": false,
+    "stress": false
+  },
+  "stan1289": {
+    "tones": false,
+    "stress": false
+  },
+  "croa1245": {
+    "tones": false,
+    "stress": false
+  },
+  "czec1258": {
+    "tones": false,
+    "stress": false
+  },
+  "gali1258": {
+    "tones": false,
+    "stress": false
+  },
+  "mono1270": {
+    "tones": false,
+    "stress": false
+  },
+  "indo1316": {
+    "tones": false,
+    "stress": false
+  },
+  "ital1282": {
+    "tones": false,
+    "stress": false
+  },
+  "sala1272": {
+    "tones": false,
+    "stress": false
+  },
+  "seri1257": {
+    "tones": false,
+    "stress": false
+  },
+  "sind1272": {
+    "tones": false,
+    "stress": false
+  },
+  "slov1268": {
+    "tones": false,
+    "stress": false
+  },
+  "swed1254": {
+    "tones": false,
+    "stress": false
+  },
+  "tuka1248": {
+    "tones": false,
+    "stress": false
+  },
+  "yine1238": {
+    "tones": false,
+    "stress": false
+  },
+  "kich1262": {
+    "tones": false,
+    "stress": false
+  },
+  "huam1248": {
+    "tones": false,
+    "stress": false
+  },
+  "sipa1247": {
+    "tones": false,
+    "stress": false
+  },
+  "chim1302": {
+    "tones": false,
+    "stress": false
+  },
+  "tlac1235": {
+    "tones": false,
+    "stress": false
+  },
+  "ambu1247": {
+    "tones": false,
+    "stress": false
+  },
+  "abau1245": {
+    "tones": false,
+    "stress": false
+  },
+  "qima1242": {
+    "tones": false,
+    "stress": false
+  },
+  "akha1245": {
+    "tones": false,
+    "stress": false
+  },
+  "alya1239": {
+    "tones": false,
+    "stress": false
+  },
+  "aman1265": {
+    "tones": false,
+    "stress": false
+  },
+  "anua1242": {
+    "tones": false,
+    "stress": false
+  },
+  "aran1237": {
+    "tones": false,
+    "stress": false
+  },
+  "bumb1241": {
+    "tones": false,
+    "stress": false
+  },
+  "tana1290": {
+    "tones": false,
+    "stress": false
+  },
+  "auuu1241": {
+    "tones": false,
+    "stress": false
+  },
+  "tinp1237": {
+    "tones": false,
+    "stress": false
+  },
+  "peta1245": {
+    "tones": false,
+    "stress": false
+  },
+  "pate1247": {
+    "tones": false,
+    "stress": false
+  },
+  "kela1255": {
+    "tones": false,
+    "stress": false
+  },
+  "surs1246": {
+    "tones": false,
+    "stress": false
+  },
+  "awar1248": {
+    "tones": false,
+    "stress": false
+  },
+  "awin1248": {
+    "tones": false,
+    "stress": false
+  },
+  "awtu1239": {
+    "tones": false,
+    "stress": false
+  },
+  "baba1264": {
+    "tones": false,
+    "stress": false
+  },
+  "baba1266": {
+    "tones": false,
+    "stress": false
+  },
+  "bako1249": {
+    "tones": false,
+    "stress": false
+  },
+  "nyon1241": {
+    "tones": false,
+    "stress": false
+  },
+  "bamu1256": {
+    "tones": false,
+    "stress": false
+  },
+  "bang1356": {
+    "tones": false,
+    "stress": false
+  },
+  "bata1285": {
+    "tones": false,
+    "stress": false
+  },
+  "bari1286": {
+    "tones": false,
+    "stress": false
+  },
+  "befa1241": {
+    "tones": false,
+    "stress": false
+  },
+  "idaa1241": {
+    "tones": false,
+    "stress": false
+  },
+  "bemb1257": {
+    "tones": false,
+    "stress": false
+  },
+  "berb1259": {
+    "tones": false,
+    "stress": false
+  },
+  "bett1235": {
+    "tones": false,
+    "stress": false
+  },
+  "biak1248": {
+    "tones": false,
+    "stress": false
+  },
+  "bili1250": {
+    "tones": false,
+    "stress": false
+  },
+  "bina1277": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2840": {
+    "tones": false,
+    "stress": false
+  },
+  "nucl1695": {
+    "tones": false,
+    "stress": false
+  },
+  "bong1285": {
+    "tones": false,
+    "stress": false
+  },
+  "boro1277": {
+    "tones": false,
+    "stress": false
+  },
+  "brok1247": {
+    "tones": false,
+    "stress": false
+  },
+  "baga1272": {
+    "tones": false,
+    "stress": false
+  },
+  "bubi1249": {
+    "tones": false,
+    "stress": false
+  },
+  "buku1249": {
+    "tones": false,
+    "stress": false
+  },
+  "subi1246": {
+    "tones": false,
+    "stress": false
+  },
+  "tote1238": {
+    "tones": false,
+    "stress": false
+  },
+  "bamb1265": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2845": {
+    "tones": false,
+    "stress": false
+  },
+  "onge1236": {
+    "tones": false,
+    "stress": false
+  },
+  "olut1240": {
+    "tones": false,
+    "stress": false
+  },
+  "jiar1240": {
+    "tones": false,
+    "stress": false
+  },
+  "suri1267": {
+    "tones": false,
+    "stress": false
+  },
+  "bilu1245": {
+    "tones": false,
+    "stress": false
+  },
+  "hoav1238": {
+    "tones": false,
+    "stress": false
+  },
+  "fili1244": {
+    "tones": false,
+    "stress": false
+  },
+  "ngad1261": {
+    "tones": false,
+    "stress": false
+  },
+  "muna1247": {
+    "tones": false,
+    "stress": false
+  },
+  "keoo1238": {
+    "tones": false,
+    "stress": false
+  },
+  "saki1248": {
+    "tones": false,
+    "stress": false
+  },
+  "torw1241": {
+    "tones": false,
+    "stress": false
+  },
+  "thul1246": {
+    "tones": false,
+    "stress": false
+  },
+  "tsha1245": {
+    "tones": false,
+    "stress": false
+  },
+  "colo1256": {
+    "tones": false,
+    "stress": false
+  },
+  "tzut1248": {
+    "tones": false,
+    "stress": false
+  },
+  "kinn1249": {
+    "tones": false,
+    "stress": false
+  },
+  "mewa1250": {
+    "tones": false,
+    "stress": false
+  },
+  "anei1239": {
+    "tones": false,
+    "stress": false
+  },
+  "zaiw1241": {
+    "tones": false,
+    "stress": false
+  },
+  "chic1270": {
+    "tones": false,
+    "stress": false
+  },
+  "friu1240": {
+    "tones": false,
+    "stress": false
+  },
+  "jica1244": {
+    "tones": false,
+    "stress": false
+  },
+  "egaa1242": {
+    "tones": false,
+    "stress": false
+  },
+  "west2441": {
+    "tones": false,
+    "stress": false
+  },
+  "sanu1240": {
+    "tones": false,
+    "stress": false
+  },
+  "wari1268": {
+    "tones": false,
+    "stress": false
+  },
+  "crow1244": {
+    "tones": false,
+    "stress": false
+  },
+  "anyi1245": {
+    "tones": false,
+    "stress": false
+  },
+  "dibo1245": {
+    "tones": false,
+    "stress": false
+  },
+  "bana1305": {
+    "tones": false,
+    "stress": false
+  },
+  "baka1274": {
+    "tones": false,
+    "stress": false
+  },
+  "ajas1235": {
+    "tones": false,
+    "stress": false
+  },
+  "bila1255": {
+    "tones": false,
+    "stress": false
+  },
+  "busa1253": {
+    "tones": false,
+    "stress": false
+  },
+  "nige1253": {
+    "tones": false,
+    "stress": false
+  },
+  "here1253": {
+    "tones": false,
+    "stress": false
+  },
+  "bafi1243": {
+    "tones": false,
+    "stress": false
+  },
+  "lega1249": {
+    "tones": false,
+    "stress": false
+  },
+  "myen1241": {
+    "tones": false,
+    "stress": false
+  },
+  "tune1261": {
+    "tones": false,
+    "stress": false
+  },
+  "matu1259": {
+    "tones": false,
+    "stress": false
+  },
+  "yaoo1241": {
+    "tones": false,
+    "stress": false
+  },
+  "umbu1257": {
+    "tones": false,
+    "stress": false
+  },
+  "ndon1254": {
+    "tones": false,
+    "stress": false
+  },
+  "mbuk1240": {
+    "tones": false,
+    "stress": false
+  },
+  "diri1252": {
+    "tones": false,
+    "stress": false
+  },
+  "kwan1273": {
+    "tones": false,
+    "stress": false
+  },
+  "ikal1242": {
+    "tones": false,
+    "stress": false
+  },
+  "mong1338": {
+    "tones": false,
+    "stress": false
+  },
+  "long1387": {
+    "tones": false,
+    "stress": false
+  },
+  "xwel1235": {
+    "tones": false,
+    "stress": false
+  },
+  "west2456": {
+    "tones": false,
+    "stress": false
+  },
+  "kota1272": {
+    "tones": false,
+    "stress": false
+  },
+  "gbes1238": {
+    "tones": false,
+    "stress": false
+  },
+  "mach1266": {
+    "tones": false,
+    "stress": false
+  },
+  "mada1282": {
+    "tones": false,
+    "stress": false
+  },
+  "mbee1249": {
+    "tones": false,
+    "stress": false
+  },
+  "ngwe1238": {
+    "tones": false,
+    "stress": false
+  },
+  "jowu1238": {
+    "tones": false,
+    "stress": false
+  },
+  "yala1263": {
+    "tones": false,
+    "stress": false
+  },
+  "mamb1296": {
+    "tones": false,
+    "stress": false
+  },
+  "kete1252": {
+    "tones": false,
+    "stress": false
+  },
+  "kwes1244": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2828": {
+    "tones": false,
+    "stress": false
+  },
+  "moru1253": {
+    "tones": false,
+    "stress": false
+  },
+  "logo1259": {
+    "tones": false,
+    "stress": false
+  },
+  "afit1238": {
+    "tones": false,
+    "stress": false
+  },
+  "avat1244": {
+    "tones": false,
+    "stress": false
+  },
+  "abua1244": {
+    "tones": false,
+    "stress": false
+  },
+  "dghw1239": {
+    "tones": false,
+    "stress": false
+  },
+  "eloy1241": {
+    "tones": false,
+    "stress": false
+  },
+  "giky1238": {
+    "tones": false,
+    "stress": false
+  },
+  "giny1241": {
+    "tones": false,
+    "stress": false
+  },
+  "huba1236": {
+    "tones": false,
+    "stress": false
+  },
+  "kofy1242": {
+    "tones": false,
+    "stress": false
+  },
+  "krac1238": {
+    "tones": false,
+    "stress": false
+  },
+  "krim1238": {
+    "tones": false,
+    "stress": false
+  },
+  "west2458": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2833": {
+    "tones": false,
+    "stress": false
+  },
+  "food1238": {
+    "tones": false,
+    "stress": false
+  },
+  "jola1262": {
+    "tones": false,
+    "stress": false
+  },
+  "jumj1238": {
+    "tones": false,
+    "stress": false
+  },
+  "buru1301": {
+    "tones": false,
+    "stress": false
+  },
+  "olub1238": {
+    "tones": false,
+    "stress": false
+  },
+  "maay1238": {
+    "tones": false,
+    "stress": false
+  },
+  "maba1273": {
+    "tones": false,
+    "stress": false
+  },
+  "suga1248": {
+    "tones": false,
+    "stress": false
+  },
+  "copi1238": {
+    "tones": false,
+    "stress": false
+  },
+  "xhos1239": {
+    "tones": false,
+    "stress": false
+  },
+  "siwu1238": {
+    "tones": false,
+    "stress": false
+  },
+  "sher1258": {
+    "tones": false,
+    "stress": false
+  },
+  "mman1238": {
+    "tones": false,
+    "stress": false
+  },
+  "cher1271": {
+    "tones": false,
+    "stress": false
+  },
+  "palo1243": {
+    "tones": false,
+    "stress": false
+  },
+  "fraf1238": {
+    "tones": false,
+    "stress": false
+  },
+  "sekp1241": {
+    "tones": false,
+    "stress": false
+  },
+  "tong1318": {
+    "tones": false,
+    "stress": false
+  },
+  "bady1239": {
+    "tones": false,
+    "stress": false
+  },
+  "sele1249": {
+    "tones": false,
+    "stress": false
+  },
+  "tivv1240": {
+    "tones": false,
+    "stress": false
+  },
+  "bili1260": {
+    "tones": false,
+    "stress": false
+  },
+  "xamt1239": {
+    "tones": false,
+    "stress": false
+  },
+  "lika1243": {
+    "tones": false,
+    "stress": false
+  },
+  "yans1239": {
+    "tones": false,
+    "stress": false
+  },
+  "budu1250": {
+    "tones": false,
+    "stress": false
+  },
+  "kele1255": {
+    "tones": false,
+    "stress": false
+  },
+  "leng1258": {
+    "tones": false,
+    "stress": false
+  },
+  "keli1248": {
+    "tones": false,
+    "stress": false
+  },
+  "wong1247": {
+    "tones": false,
+    "stress": false
+  },
+  "mwal1237": {
+    "tones": false,
+    "stress": false
+  },
+  "afar1241": {
+    "tones": false,
+    "stress": false
+  },
+  "mund1325": {
+    "tones": false,
+    "stress": false
+  },
+  "mono1269": {
+    "tones": false,
+    "stress": false
+  },
+  "tupu1244": {
+    "tones": false,
+    "stress": false
+  },
+  "kuoo1238": {
+    "tones": false,
+    "stress": false
+  },
+  "kare1338": {
+    "tones": false,
+    "stress": false
+  },
+  "ndai1238": {
+    "tones": false,
+    "stress": false
+  },
+  "bamb1262": {
+    "tones": false,
+    "stress": false
+  },
+  "tigr1271": {
+    "tones": false,
+    "stress": false
+  },
+  "kara1483": {
+    "tones": false,
+    "stress": false
+  },
+  "gwan1268": {
+    "tones": false,
+    "stress": false
+  },
+  "avik1243": {
+    "tones": false,
+    "stress": false
+  },
+  "shil1265": {
+    "tones": false,
+    "stress": false
+  },
+  "haio1238": {
+    "tones": false,
+    "stress": false
+  },
+  "pero1241": {
+    "tones": false,
+    "stress": false
+  },
+  "bora1271": {
+    "tones": false,
+    "stress": false
+  },
+  "hadi1240": {
+    "tones": false,
+    "stress": false
+  },
+  "wola1242": {
+    "tones": false,
+    "stress": false
+  },
+  "kuny1238": {
+    "tones": false,
+    "stress": false
+  },
+  "otuh1238": {
+    "tones": false,
+    "stress": false
+  },
+  "masa1299": {
+    "tones": false,
+    "stress": false
+  },
+  "kamw1239": {
+    "tones": false,
+    "stress": false
+  },
+  "many1261": {
+    "tones": false,
+    "stress": false
+  },
+  "saya1246": {
+    "tones": false,
+    "stress": false
+  },
+  "njeb1242": {
+    "tones": false,
+    "stress": false
+  },
+  "tada1238": {
+    "tones": false,
+    "stress": false
+  },
+  "kamb1316": {
+    "tones": false,
+    "stress": false
+  },
+  "otor1240": {
+    "tones": false,
+    "stress": false
+  },
+  "tira1254": {
+    "tones": false,
+    "stress": false
+  },
+  "nyam1285": {
+    "tones": false,
+    "stress": false
+  },
+  "fali1285": {
+    "tones": false,
+    "stress": false
+  },
+  "mawa1270": {
+    "tones": false,
+    "stress": false
+  },
+  "huaa1248": {
+    "tones": false,
+    "stress": false
+  },
+  "koal1240": {
+    "tones": false,
+    "stress": false
+  },
+  "kagu1239": {
+    "tones": false,
+    "stress": false
+  },
+  "okoo1245": {
+    "tones": false,
+    "stress": false
+  },
+  "kung1261": {
+    "tones": false,
+    "stress": false
+  },
+  "ghom1247": {
+    "tones": false,
+    "stress": false
+  },
+  "defa1248": {
+    "tones": false,
+    "stress": false
+  },
+  "teee1242": {
+    "tones": false,
+    "stress": false
+  },
+  "kips1239": {
+    "tones": false,
+    "stress": false
+  },
+  "pang1287": {
+    "tones": false,
+    "stress": false
+  },
+  "holo1240": {
+    "tones": false,
+    "stress": false
+  },
+  "buli1254": {
+    "tones": false,
+    "stress": false
+  },
+  "bala1302": {
+    "tones": false,
+    "stress": false
+  },
+  "nyam1277": {
+    "tones": false,
+    "stress": false
+  },
+  "poko1263": {
+    "tones": false,
+    "stress": false
+  },
+  "afri1274": {
+    "tones": false,
+    "stress": false
+  },
+  "argo1244": {
+    "tones": false,
+    "stress": false
+  },
+  "hara1271": {
+    "tones": false,
+    "stress": false
+  },
+  "dink1262": {
+    "tones": false,
+    "stress": false
+  },
+  "nzim1238": {
+    "tones": false,
+    "stress": false
+  },
+  "ahan1243": {
+    "tones": false,
+    "stress": false
+  },
+  "besl1239": {
+    "tones": false,
+    "stress": false
+  },
+  "buwa1243": {
+    "tones": false,
+    "stress": false
+  },
+  "hdii1240": {
+    "tones": false,
+    "stress": false
+  },
+  "lama1288": {
+    "tones": false,
+    "stress": false
+  },
+  "ikwe1242": {
+    "tones": false,
+    "stress": false
+  },
+  "lagw1237": {
+    "tones": false,
+    "stress": false
+  },
+  "mbuk1243": {
+    "tones": false,
+    "stress": false
+  },
+  "molo1266": {
+    "tones": false,
+    "stress": false
+  },
+  "muya1243": {
+    "tones": false,
+    "stress": false
+  },
+  "keme1240": {
+    "tones": false,
+    "stress": false
+  },
+  "nate1242": {
+    "tones": false,
+    "stress": false
+  },
+  "silt1240": {
+    "tones": false,
+    "stress": false
+  },
+  "wehh1238": {
+    "tones": false,
+    "stress": false
+  },
+  "tuli1249": {
+    "tones": false,
+    "stress": false
+  },
+  "keig1242": {
+    "tones": false,
+    "stress": false
+  },
+  "kron1241": {
+    "tones": false,
+    "stress": false
+  },
+  "kang1288": {
+    "tones": false,
+    "stress": false
+  },
+  "moro1284": {
+    "tones": false,
+    "stress": false
+  },
+  "arin1244": {
+    "tones": false,
+    "stress": false
+  },
+  "tese1238": {
+    "tones": false,
+    "stress": false
+  },
+  "lumu1239": {
+    "tones": false,
+    "stress": false
+  },
+  "ache1245": {
+    "tones": false,
+    "stress": false
+  },
+  "toch1257": {
+    "tones": false,
+    "stress": false
+  },
+  "dagi1241": {
+    "tones": false,
+    "stress": false
+  },
+  "didi1258": {
+    "tones": false,
+    "stress": false
+  },
+  "luwo1239": {
+    "tones": false,
+    "stress": false
+  },
+  "acol1236": {
+    "tones": false,
+    "stress": false
+  },
+  "bela1256": {
+    "tones": false,
+    "stress": false
+  },
+  "bela1255": {
+    "tones": false,
+    "stress": false
+  },
+  "ndog1248": {
+    "tones": false,
+    "stress": false
+  },
+  "bade1248": {
+    "tones": false,
+    "stress": false
+  },
+  "fern1234": {
+    "tones": false,
+    "stress": false
+  },
+  "jita1239": {
+    "tones": false,
+    "stress": false
+  },
+  "dime1235": {
+    "tones": false,
+    "stress": false
+  },
+  "tsot1241": {
+    "tones": false,
+    "stress": false
+  },
+  "jams1239": {
+    "tones": false,
+    "stress": false
+  },
+  "kamb1297": {
+    "tones": false,
+    "stress": false
+  },
+  "lang1324": {
+    "tones": false,
+    "stress": false
+  },
+  "kisa1263": {
+    "tones": false,
+    "stress": false
+  },
+  "nyol1238": {
+    "tones": false,
+    "stress": false
+  },
+  "mwan1247": {
+    "tones": false,
+    "stress": false
+  },
+  "kgal1244": {
+    "tones": false,
+    "stress": false
+  },
+  "tiey1235": {
+    "tones": false,
+    "stress": false
+  },
+  "alab1254": {
+    "tones": false,
+    "stress": false
+  },
+  "dege1246": {
+    "tones": false,
+    "stress": false
+  },
+  "prin1242": {
+    "tones": false,
+    "stress": false
+  },
+  "nkon1248": {
+    "tones": false,
+    "stress": false
+  },
+  "sodd1242": {
+    "tones": false,
+    "stress": false
+  },
+  "kist1241": {
+    "tones": false,
+    "stress": false
+  },
+  "mesq1240": {
+    "tones": false,
+    "stress": false
+  },
+  "seba1251": {
+    "tones": false,
+    "stress": false
+  },
+  "ezha1238": {
+    "tones": false,
+    "stress": false
+  },
+  "chah1248": {
+    "tones": false,
+    "stress": false
+  },
+  "gume1239": {
+    "tones": false,
+    "stress": false
+  },
+  "inor1238": {
+    "tones": false,
+    "stress": false
+  },
+  "dzuu1241": {
+    "tones": false,
+    "stress": false
+  },
+  "bagi1246": {
+    "tones": false,
+    "stress": false
+  },
+  "ngit1239": {
+    "tones": false,
+    "stress": false
+  },
+  "ndal1241": {
+    "tones": false,
+    "stress": false
+  },
+  "meen1242": {
+    "tones": false,
+    "stress": false
+  },
+  "ngas1238": {
+    "tones": false,
+    "stress": false
+  },
+  "mbay1241": {
+    "tones": false,
+    "stress": false
+  },
+  "gumu1244": {
+    "tones": false,
+    "stress": false
+  },
+  "sooo1256": {
+    "tones": false,
+    "stress": false
+  },
+  "benc1235": {
+    "tones": false,
+    "stress": false
+  },
+  "yems1235": {
+    "tones": false,
+    "stress": false
+  },
+  "zays1236": {
+    "tones": false,
+    "stress": false
+  },
+  "gamo1243": {
+    "tones": false,
+    "stress": false
+  },
+  "koor1239": {
+    "tones": false,
+    "stress": false
+  },
+  "aari1239": {
+    "tones": false,
+    "stress": false
+  },
+  "uduk1239": {
+    "tones": false,
+    "stress": false
+  },
+  "opuu1239": {
+    "tones": false,
+    "stress": false
+  },
+  "kwam1249": {
+    "tones": false,
+    "stress": false
+  },
+  "mayo1261": {
+    "tones": false,
+    "stress": false
+  },
+  "saam1283": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2795": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2795": {
+    "tones": false,
+    "stress": false
+  },
+  "saxw1241": {
+    "tones": false,
+    "stress": false
+  },
+  "nari1240": {
+    "tones": false,
+    "stress": false
+  },
+  "bidy1244": {
+    "tones": false,
+    "stress": false
+  },
+  "domp1238": {
+    "tones": false,
+    "stress": false
+  },
+  "heib1243": {
+    "tones": false,
+    "stress": false
+  },
+  "koya1253": {
+    "tones": false,
+    "stress": false
+  },
+  "shwa1239": {
+    "tones": false,
+    "stress": false
+  },
+  "gaaa1245": {
+    "tones": false,
+    "stress": false
+  },
+  "kuan1247": {
+    "tones": false,
+    "stress": false
+  },
+  "mbal1255": {
+    "tones": false,
+    "stress": false
+  },
+  "kwam1251": {
+    "tones": false,
+    "stress": false
+  },
+  "ngan1300": {
+    "tones": false,
+    "stress": false
+  },
+  "zagh1240": {
+    "tones": false,
+    "stress": false
+  },
+  "zayy1238": {
+    "tones": false,
+    "stress": false
+  },
+  "bomi1238": {
+    "tones": false,
+    "stress": false
+  },
+  "bena1262": {
+    "tones": false,
+    "stress": false
+  },
+  "kaka1265": {
+    "tones": false,
+    "stress": false
+  },
+  "lele1266": {
+    "tones": false,
+    "stress": false
+  },
+  "mann1248": {
+    "tones": false,
+    "stress": false
+  },
+  "kyen1242": {
+    "tones": false,
+    "stress": false
+  },
+  "shan1282": {
+    "tones": false,
+    "stress": false
+  },
+  "abur1243": {
+    "tones": false,
+    "stress": false
+  },
+  "bank1256": {
+    "tones": false,
+    "stress": false
+  },
+  "efut1241": {
+    "tones": false,
+    "stress": false
+  },
+  "arbo1245": {
+    "tones": false,
+    "stress": false
+  },
+  "tiag1235": {
+    "tones": false,
+    "stress": false
+  },
+  "begb1241": {
+    "tones": false,
+    "stress": false
+  },
+  "ngaz1238": {
+    "tones": false,
+    "stress": false
+  },
+  "akpe1248": {
+    "tones": false,
+    "stress": false
+  },
+  "eten1239": {
+    "tones": false,
+    "stress": false
+  },
+  "kagf1238": {
+    "tones": false,
+    "stress": false
+  },
+  "idom1241": {
+    "tones": false,
+    "stress": false
+  },
+  "irig1241": {
+    "tones": false,
+    "stress": false
+  },
+  "jere1244": {
+    "tones": false,
+    "stress": false
+  },
+  "legb1242": {
+    "tones": false,
+    "stress": false
+  },
+  "logb1245": {
+    "tones": false,
+    "stress": false
+  },
+  "glav1244": {
+    "tones": false,
+    "stress": false
+  },
+  "ahan1244": {
+    "tones": false,
+    "stress": false
+  },
+  "ayer1245": {
+    "tones": false,
+    "stress": false
+  },
+  "rong1268": {
+    "tones": false,
+    "stress": false
+  },
+  "ndzw1235": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2790": {
+    "tones": false,
+    "stress": false
+  },
+  "kuwa1246": {
+    "tones": false,
+    "stress": false
+  },
+  "atti1239": {
+    "tones": false,
+    "stress": false
+  },
+  "ango1258": {
+    "tones": false,
+    "stress": false
+  },
+  "east2652": {
+    "tones": false,
+    "stress": false
+  },
+  "uppe1455": {
+    "tones": false,
+    "stress": false
+  },
+  "baka1273": {
+    "tones": false,
+    "stress": false
+  },
+  "bass1260": {
+    "tones": false,
+    "stress": false
+  },
+  "libe1240": {
+    "tones": false,
+    "stress": false
+  },
+  "gagu1242": {
+    "tones": false,
+    "stress": false
+  },
+  "eton1253": {
+    "tones": false,
+    "stress": false
+  },
+  "reun1238": {
+    "tones": false,
+    "stress": false
+  },
+  "nucl1440": {
+    "tones": false,
+    "stress": false
+  },
+  "saot1239": {
+    "tones": false,
+    "stress": false
+  },
+  "nucl1696": {
+    "tones": false,
+    "stress": false
+  },
+  "suku1261": {
+    "tones": false,
+    "stress": false
+  },
+  "mori1278": {
+    "tones": false,
+    "stress": false
+  },
+  "kitu1246": {
+    "tones": false,
+    "stress": false
+  },
+  "akas1242": {
+    "tones": false,
+    "stress": false
+  },
+  "tuki1240": {
+    "tones": false,
+    "stress": false
+  },
+  "bumm1238": {
+    "tones": false,
+    "stress": false
+  },
+  "gava1241": {
+    "tones": false,
+    "stress": false
+  },
+  "lang1322": {
+    "tones": false,
+    "stress": false
+  },
+  "kwan1276": {
+    "tones": false,
+    "stress": false
+  },
+  "mere1246": {
+    "tones": false,
+    "stress": false
+  },
+  "wand1278": {
+    "tones": false,
+    "stress": false
+  },
+  "chon1287": {
+    "tones": false,
+    "stress": false
+  },
+  "digo1243": {
+    "tones": false,
+    "stress": false
+  },
+  "giry1241": {
+    "tones": false,
+    "stress": false
+  },
+  "kamb1298": {
+    "tones": false,
+    "stress": false
+  },
+  "kaum1238": {
+    "tones": false,
+    "stress": false
+  },
+  "vame1236": {
+    "tones": false,
+    "stress": false
+  },
+  "mmaa1238": {
+    "tones": false,
+    "stress": false
+  },
+  "mpad1242": {
+    "tones": false,
+    "stress": false
+  },
+  "ncan1245": {
+    "tones": false,
+    "stress": false
+  },
+  "mfum1238": {
+    "tones": false,
+    "stress": false
+  },
+  "njye1238": {
+    "tones": false,
+    "stress": false
+  },
+  "buam1238": {
+    "tones": false,
+    "stress": false
+  },
+  "kwam1250": {
+    "tones": false,
+    "stress": false
+  },
+  "guro1248": {
+    "tones": false,
+    "stress": false
+  },
+  "kabu1256": {
+    "tones": false,
+    "stress": false
+  },
+  "boun1243": {
+    "tones": false,
+    "stress": false
+  },
+  "tsam1247": {
+    "tones": false,
+    "stress": false
+  },
+  "cent2194": {
+    "tones": false,
+    "stress": false
+  },
+  "siwi1239": {
+    "tones": false,
+    "stress": false
+  },
+  "ndam1239": {
+    "tones": false,
+    "stress": false
+  },
+  "bare1279": {
+    "tones": false,
+    "stress": false
+  },
+  "abar1238": {
+    "tones": false,
+    "stress": false
+  },
+  "mund1328": {
+    "tones": false,
+    "stress": false
+  },
+  "mbuu1238": {
+    "tones": false,
+    "stress": false
+  },
+  "kosh1246": {
+    "tones": false,
+    "stress": false
+  },
+  "fang1248": {
+    "tones": false,
+    "stress": false
+  },
+  "kura1250": {
+    "tones": false,
+    "stress": false
+  },
+  "nort3047": {
+    "tones": false,
+    "stress": false
+  },
+  "mogh1246": {
+    "tones": false,
+    "stress": false
+  },
+  "mokp1239": {
+    "tones": false,
+    "stress": false
+  },
+  "siam1242": {
+    "tones": false,
+    "stress": false
+  },
+  "tigo1236": {
+    "tones": false,
+    "stress": false
+  },
+  "orma1241": {
+    "tones": false,
+    "stress": false
+  },
+  "piny1238": {
+    "tones": false,
+    "stress": false
+  },
+  "pana1294": {
+    "tones": false,
+    "stress": false
+  },
+  "reel1238": {
+    "tones": false,
+    "stress": false
+  },
+  "wuzl1236": {
+    "tones": false,
+    "stress": false
+  },
+  "lese1243": {
+    "tones": false,
+    "stress": false
+  },
+  "gwen1239": {
+    "tones": false,
+    "stress": false
+  },
+  "sumb1240": {
+    "tones": false,
+    "stress": false
+  },
+  "zinz1238": {
+    "tones": false,
+    "stress": false
+  },
+  "meru1245": {
+    "tones": false,
+    "stress": false
+  },
+  "kahe1238": {
+    "tones": false,
+    "stress": false
+  },
+  "hang1260": {
+    "tones": false,
+    "stress": false
+  },
+  "moch1256": {
+    "tones": false,
+    "stress": false
+  },
+  "suba1252": {
+    "tones": false,
+    "stress": false
+  },
+  "kway1241": {
+    "tones": false,
+    "stress": false
+  },
+  "wawa1246": {
+    "tones": false,
+    "stress": false
+  },
+  "tuni1251": {
+    "tones": false,
+    "stress": false
+  },
+  "bafa1249": {
+    "tones": false,
+    "stress": false
+  },
+  "burj1242": {
+    "tones": false,
+    "stress": false
+  },
+  "anii1245": {
+    "tones": false,
+    "stress": false
+  },
+  "fipa1238": {
+    "tones": false,
+    "stress": false
+  },
+  "nawu1242": {
+    "tones": false,
+    "stress": false
+  },
+  "anfi1235": {
+    "tones": false,
+    "stress": false
+  },
+  "ntom1248": {
+    "tones": false,
+    "stress": false
+  },
+  "tumt1243": {
+    "tones": false,
+    "stress": false
+  },
+  "iyiv1238": {
+    "tones": false,
+    "stress": false
+  },
+  "bata1293": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2918": {
+    "tones": false,
+    "stress": false
+  },
+  "kima1244": {
+    "tones": false,
+    "stress": false
+  },
+  "bela1260": {
+    "tones": false,
+    "stress": false
+  },
+  "mokl1243": {
+    "tones": false,
+    "stress": false
+  },
+  "nias1242": {
+    "tones": false,
+    "stress": false
+  },
+  "buol1237": {
+    "tones": false,
+    "stress": false
+  },
+  "maka1311": {
+    "tones": false,
+    "stress": false
+  },
+  "mori1268": {
+    "tones": false,
+    "stress": false
+  },
+  "kamb1299": {
+    "tones": false,
+    "stress": false
+  },
+  "leti1246": {
+    "tones": false,
+    "stress": false
+  },
+  "ambo1250": {
+    "tones": false,
+    "stress": false
+  },
+  "band1353": {
+    "tones": false,
+    "stress": false
+  },
+  "mala1481": {
+    "tones": false,
+    "stress": false
+  },
+  "kupa1239": {
+    "tones": false,
+    "stress": false
+  },
+  "lara1260": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2828": {
+    "tones": false,
+    "stress": false
+  },
+  "nucl1460": {
+    "tones": false,
+    "stress": false
+  },
+  "cebu1242": {
+    "tones": false,
+    "stress": false
+  },
+  "bali1278": {
+    "tones": false,
+    "stress": false
+  },
+  "bugi1244": {
+    "tones": false,
+    "stress": false
+  },
+  "cent2087": {
+    "tones": false,
+    "stress": false
+  },
+  "hili1240": {
+    "tones": false,
+    "stress": false
+  },
+  "pamp1243": {
+    "tones": false,
+    "stress": false
+  },
+  "mina1268": {
+    "tones": false,
+    "stress": false
+  },
+  "pang1290": {
+    "tones": false,
+    "stress": false
+  },
+  "teng1272": {
+    "tones": false,
+    "stress": false
+  },
+  "abuj1237": {
+    "tones": false,
+    "stress": false
+  },
+  "anga1288": {
+    "tones": false,
+    "stress": false
+  },
+  "apat1240": {
+    "tones": false,
+    "stress": false
+  },
+  "assa1263": {
+    "tones": false,
+    "stress": false
+  },
+  "awad1243": {
+    "tones": false,
+    "stress": false
+  },
+  "bada1257": {
+    "tones": false,
+    "stress": false
+  },
+  "balt1258": {
+    "tones": false,
+    "stress": false
+  },
+  "lamb1269": {
+    "tones": false,
+    "stress": false
+  },
+  "bhil1251": {
+    "tones": false,
+    "stress": false
+  },
+  "bund1253": {
+    "tones": false,
+    "stress": false
+  },
+  "chau1259": {
+    "tones": false,
+    "stress": false
+  },
+  "chok1243": {
+    "tones": false,
+    "stress": false
+  },
+  "darm1243": {
+    "tones": false,
+    "stress": false
+  },
+  "gata1239": {
+    "tones": false,
+    "stress": false
+  },
+  "gade1236": {
+    "tones": false,
+    "stress": false
+  },
+  "galo1242": {
+    "tones": false,
+    "stress": false
+  },
+  "guja1252": {
+    "tones": false,
+    "stress": false
+  },
+  "bodo1267": {
+    "tones": false,
+    "stress": false
+  },
+  "halb1244": {
+    "tones": false,
+    "stress": false
+  },
+  "hooo1248": {
+    "tones": false,
+    "stress": false
+  },
+  "irul1243": {
+    "tones": false,
+    "stress": false
+  },
+  "jaun1243": {
+    "tones": false,
+    "stress": false
+  },
+  "kang1280": {
+    "tones": false,
+    "stress": false
+  },
+  "nucl1305": {
+    "tones": false,
+    "stress": false
+  },
+  "saur1248": {
+    "tones": false,
+    "stress": false
+  },
+  "karb1241": {
+    "tones": false,
+    "stress": false
+  },
+  "jenn1240": {
+    "tones": false,
+    "stress": false
+  },
+  "khez1235": {
+    "tones": false,
+    "stress": false
+  },
+  "koda1255": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2699": {
+    "tones": false,
+    "stress": false
+  },
+  "kond1295": {
+    "tones": false,
+    "stress": false
+  },
+  "mudh1235": {
+    "tones": false,
+    "stress": false
+  },
+  "korr1238": {
+    "tones": false,
+    "stress": false
+  },
+  "kork1243": {
+    "tones": false,
+    "stress": false
+  },
+  "kuii1252": {
+    "tones": false,
+    "stress": false
+  },
+  "kuma1273": {
+    "tones": false,
+    "stress": false
+  },
+  "lepc1244": {
+    "tones": false,
+    "stress": false
+  },
+  "loth1237": {
+    "tones": false,
+    "stress": false
+  },
+  "lush1249": {
+    "tones": false,
+    "stress": false
+  },
+  "mait1250": {
+    "tones": false,
+    "stress": false
+  },
+  "mala1464": {
+    "tones": false,
+    "stress": false
+  },
+  "saur1249": {
+    "tones": false,
+    "stress": false
+  },
+  "maon1238": {
+    "tones": false,
+    "stress": false
+  },
+  "mara1378": {
+    "tones": false,
+    "stress": false
+  },
+  "miju1243": {
+    "tones": false,
+    "stress": false
+  },
+  "miny1240": {
+    "tones": false,
+    "stress": false
+  },
+  "moyo1238": {
+    "tones": false,
+    "stress": false
+  },
+  "naik1250": {
+    "tones": false,
+    "stress": false
+  },
+  "cent1990": {
+    "tones": false,
+    "stress": false
+  },
+  "pott1240": {
+    "tones": false,
+    "stress": false
+  },
+  "oriy1255": {
+    "tones": false,
+    "stress": false
+  },
+  "pait1244": {
+    "tones": false,
+    "stress": false
+  },
+  "duru1236": {
+    "tones": false,
+    "stress": false
+  },
+  "patt1248": {
+    "tones": false,
+    "stress": false
+  },
+  "peng1244": {
+    "tones": false,
+    "stress": false
+  },
+  "sans1269": {
+    "tones": false,
+    "stress": false
+  },
+  "sant1410": {
+    "tones": false,
+    "stress": false
+  },
+  "sumi1235": {
+    "tones": false,
+    "stress": false
+  },
+  "shin1264": {
+    "tones": false,
+    "stress": false
+  },
+  "tang1336": {
+    "tones": false,
+    "stress": false
+  },
+  "tase1235": {
+    "tones": false,
+    "stress": false
+  },
+  "thad1238": {
+    "tones": false,
+    "stress": false
+  },
+  "toda1252": {
+    "tones": false,
+    "stress": false
+  },
+  "kokb1239": {
+    "tones": false,
+    "stress": false
+  },
+  "ural1274": {
+    "tones": false,
+    "stress": false
+  },
+  "urdu1245": {
+    "tones": false,
+    "stress": false
+  },
+  "vaag1238": {
+    "tones": false,
+    "stress": false
+  },
+  "ravu1237": {
+    "tones": false,
+    "stress": false
+  },
+  "yeru1240": {
+    "tones": false,
+    "stress": false
+  },
+  "acha1250": {
+    "tones": false,
+    "stress": false
+  },
+  "araw1276": {
+    "tones": false,
+    "stress": false
+  },
+  "ajyi1238": {
+    "tones": false,
+    "stress": false
+  },
+  "ashe1272": {
+    "tones": false,
+    "stress": false
+  },
+  "pich1237": {
+    "tones": false,
+    "stress": false
+  },
+  "ucay1237": {
+    "tones": false,
+    "stress": false
+  },
+  "bare1276": {
+    "tones": false,
+    "stress": false
+  },
+  "cabi1241": {
+    "tones": false,
+    "stress": false
+  },
+  "caqu1242": {
+    "tones": false,
+    "stress": false
+  },
+  "curr1243": {
+    "tones": false,
+    "stress": false
+  },
+  "enaw1238": {
+    "tones": false,
+    "stress": false
+  },
+  "inap1243": {
+    "tones": false,
+    "stress": false
+  },
+  "guan1270": {
+    "tones": false,
+    "stress": false
+  },
+  "mach1268": {
+    "tones": false,
+    "stress": false
+  },
+  "mach1267": {
+    "tones": false,
+    "stress": false
+  },
+  "mehi1240": {
+    "tones": false,
+    "stress": false
+  },
+  "nant1250": {
+    "tones": false,
+    "stress": false
+  },
+  "noma1263": {
+    "tones": false,
+    "stress": false
+  },
+  "pali1279": {
+    "tones": false,
+    "stress": false
+  },
+  "para1316": {
+    "tones": false,
+    "stress": false
+  },
+  "pare1272": {
+    "tones": false,
+    "stress": false
+  },
+  "piap1246": {
+    "tones": false,
+    "stress": false
+  },
+  "tari1256": {
+    "tones": false,
+    "stress": false
+  },
+  "tere1279": {
+    "tones": false,
+    "stress": false
+  },
+  "guar1293": {
+    "tones": false,
+    "stress": false
+  },
+  "waur1244": {
+    "tones": false,
+    "stress": false
+  },
+  "yavi1244": {
+    "tones": false,
+    "stress": false
+  },
+  "yawa1261": {
+    "tones": false,
+    "stress": false
+  },
+  "baur1253": {
+    "tones": false,
+    "stress": false
+  },
+  "deni1241": {
+    "tones": false,
+    "stress": false
+  },
+  "culi1244": {
+    "tones": false,
+    "stress": false
+  },
+  "paum1247": {
+    "tones": false,
+    "stress": false
+  },
+  "suru1263": {
+    "tones": false,
+    "stress": false
+  },
+  "cent2142": {
+    "tones": false,
+    "stress": false
+  },
+  "bora1263": {
+    "tones": false,
+    "stress": false
+  },
+  "mira1254": {
+    "tones": false,
+    "stress": false
+  },
+  "chay1248": {
+    "tones": false,
+    "stress": false
+  },
+  "akur1238": {
+    "tones": false,
+    "stress": false
+  },
+  "apal1257": {
+    "tones": false,
+    "stress": false
+  },
+  "para1310": {
+    "tones": false,
+    "stress": false
+  },
+  "cari1279": {
+    "tones": false,
+    "stress": false
+  },
+  "ikpe1245": {
+    "tones": false,
+    "stress": false
+  },
+  "kaxu1237": {
+    "tones": false,
+    "stress": false
+  },
+  "kuik1246": {
+    "tones": false,
+    "stress": false
+  },
+  "macu1259": {
+    "tones": false,
+    "stress": false
+  },
+  "mapo1246": {
+    "tones": false,
+    "stress": false
+  },
+  "maqu1238": {
+    "tones": false,
+    "stress": false
+  },
+  "pemo1248": {
+    "tones": false,
+    "stress": false
+  },
+  "pemo1245": {
+    "tones": false,
+    "stress": false
+  },
+  "trio1238": {
+    "tones": false,
+    "stress": false
+  },
+  "waim1253": {
+    "tones": false,
+    "stress": false
+  },
+  "waiw1244": {
+    "tones": false,
+    "stress": false
+  },
+  "yaba1248": {
+    "tones": false,
+    "stress": false
+  },
+  "orow1243": {
+    "tones": false,
+    "stress": false
+  },
+  "bari1297": {
+    "tones": false,
+    "stress": false
+  },
+  "chib1270": {
+    "tones": false,
+    "stress": false
+  },
+  "chim1309": {
+    "tones": false,
+    "stress": false
+  },
+  "cogu1240": {
+    "tones": false,
+    "stress": false
+  },
+  "mala1522": {
+    "tones": false,
+    "stress": false
+  },
+  "cent2150": {
+    "tones": false,
+    "stress": false
+  },
+  "woun1238": {
+    "tones": false,
+    "stress": false
+  },
+  "embe1259": {
+    "tones": false,
+    "stress": false
+  },
+  "embe1260": {
+    "tones": false,
+    "stress": false
+  },
+  "embe1262": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2972": {
+    "tones": false,
+    "stress": false
+  },
+  "puel1244": {
+    "tones": false,
+    "stress": false
+  },
+  "onaa1245": {
+    "tones": false,
+    "stress": false
+  },
+  "coca1259": {
+    "tones": false,
+    "stress": false
+  },
+  "cuib1242": {
+    "tones": false,
+    "stress": false
+  },
+  "guay1257": {
+    "tones": false,
+    "stress": false
+  },
+  "maca1259": {
+    "tones": false,
+    "stress": false
+  },
+  "amar1274": {
+    "tones": false,
+    "stress": false
+  },
+  "chol1284": {
+    "tones": false,
+    "stress": false
+  },
+  "abis1238": {
+    "tones": false,
+    "stress": false
+  },
+  "cand1248": {
+    "tones": false,
+    "stress": false
+  },
+  "leco1242": {
+    "tones": false,
+    "stress": false
+  },
+  "lule1238": {
+    "tones": false,
+    "stress": false
+  },
+  "moch1259": {
+    "tones": false,
+    "stress": false
+  },
+  "muni1258": {
+    "tones": false,
+    "stress": false
+  },
+  "puin1248": {
+    "tones": false,
+    "stress": false
+  },
+  "taus1253": {
+    "tones": false,
+    "stress": false
+  },
+  "tini1245": {
+    "tones": false,
+    "stress": false
+  },
+  "urar1246": {
+    "tones": false,
+    "stress": false
+  },
+  "vile1241": {
+    "tones": false,
+    "stress": false
+  },
+  "yama1264": {
+    "tones": false,
+    "stress": false
+  },
+  "achu1248": {
+    "tones": false,
+    "stress": false
+  },
+  "agua1253": {
+    "tones": false,
+    "stress": false
+  },
+  "huam1247": {
+    "tones": false,
+    "stress": false
+  },
+  "nuka1242": {
+    "tones": false,
+    "stress": false
+  },
+  "nucl1668": {
+    "tones": false,
+    "stress": false
+  },
+  "arik1265": {
+    "tones": false,
+    "stress": false
+  },
+  "cane1242": {
+    "tones": false,
+    "stress": false
+  },
+  "chiq1248": {
+    "tones": false,
+    "stress": false
+  },
+  "para1315": {
+    "tones": false,
+    "stress": false
+  },
+  "guat1253": {
+    "tones": false,
+    "stress": false
+  },
+  "djeo1235": {
+    "tones": false,
+    "stress": false
+  },
+  "kara1500": {
+    "tones": false,
+    "stress": false
+  },
+  "kaya1330": {
+    "tones": false,
+    "stress": false
+  },
+  "krah1246": {
+    "tones": false,
+    "stress": false
+  },
+  "kren1239": {
+    "tones": false,
+    "stress": false
+  },
+  "krik1239": {
+    "tones": false,
+    "stress": false
+  },
+  "ofay1240": {
+    "tones": false,
+    "stress": false
+  },
+  "pana1307": {
+    "tones": false,
+    "stress": false
+  },
+  "puri1262": {
+    "tones": false,
+    "stress": false
+  },
+  "rikb1245": {
+    "tones": false,
+    "stress": false
+  },
+  "suya1243": {
+    "tones": false,
+    "stress": false
+  },
+  "umot1240": {
+    "tones": false,
+    "stress": false
+  },
+  "xava1240": {
+    "tones": false,
+    "stress": false
+  },
+  "xere1240": {
+    "tones": false,
+    "stress": false
+  },
+  "xokl1240": {
+    "tones": false,
+    "stress": false
+  },
+  "saop1235": {
+    "tones": false,
+    "stress": false
+  },
+  "iyow1239": {
+    "tones": false,
+    "stress": false
+  },
+  "maca1260": {
+    "tones": false,
+    "stress": false
+  },
+  "wich1264": {
+    "tones": false,
+    "stress": false
+  },
+  "call1235": {
+    "tones": false,
+    "stress": false
+  },
+  "daww1239": {
+    "tones": false,
+    "stress": false
+  },
+  "nade1244": {
+    "tones": false,
+    "stress": false
+  },
+  "yuhu1238": {
+    "tones": false,
+    "stress": false
+  },
+  "khit1238": {
+    "tones": false,
+    "stress": false
+  },
+  "latu1238": {
+    "tones": false,
+    "stress": false
+  },
+  "mama1278": {
+    "tones": false,
+    "stress": false
+  },
+  "shar1245": {
+    "tones": false,
+    "stress": false
+  },
+  "capa1241": {
+    "tones": false,
+    "stress": false
+  },
+  "cash1251": {
+    "tones": false,
+    "stress": false
+  },
+  "cash1254": {
+    "tones": false,
+    "stress": false
+  },
+  "pano1254": {
+    "tones": false,
+    "stress": false
+  },
+  "kaxa1239": {
+    "tones": false,
+    "stress": false
+  },
+  "koru1247": {
+    "tones": false,
+    "stress": false
+  },
+  "mati1255": {
+    "tones": false,
+    "stress": false
+  },
+  "nuku1263": {
+    "tones": false,
+    "stress": false
+  },
+  "pano1255": {
+    "tones": false,
+    "stress": false
+  },
+  "poya1241": {
+    "tones": false,
+    "stress": false
+  },
+  "yami1256": {
+    "tones": false,
+    "stress": false
+  },
+  "shan1283": {
+    "tones": false,
+    "stress": false
+  },
+  "ship1255": {
+    "tones": false,
+    "stress": false
+  },
+  "yora1241": {
+    "tones": false,
+    "stress": false
+  },
+  "yame1242": {
+    "tones": false,
+    "stress": false
+  },
+  "coro1247": {
+    "tones": false,
+    "stress": false
+  },
+  "caja1238": {
+    "tones": false,
+    "stress": false
+  },
+  "chac1250": {
+    "tones": false,
+    "stress": false
+  },
+  "cusc1236": {
+    "tones": false,
+    "stress": false
+  },
+  "lamb1276": {
+    "tones": false,
+    "stress": false
+  },
+  "imba1240": {
+    "tones": false,
+    "stress": false
+  },
+  "inga1252": {
+    "tones": false,
+    "stress": false
+  },
+  "jung1240": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2980": {
+    "tones": false,
+    "stress": false
+  },
+  "ayac1239": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2976": {
+    "tones": false,
+    "stress": false
+  },
+  "hual1241": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2979": {
+    "tones": false,
+    "stress": false
+  },
+  "sanm1289": {
+    "tones": false,
+    "stress": false
+  },
+  "sant1432": {
+    "tones": false,
+    "stress": false
+  },
+  "napo1242": {
+    "tones": false,
+    "stress": false
+  },
+  "tena1240": {
+    "tones": false,
+    "stress": false
+  },
+  "piar1243": {
+    "tones": false,
+    "stress": false
+  },
+  "arao1248": {
+    "tones": false,
+    "stress": false
+  },
+  "esee1248": {
+    "tones": false,
+    "stress": false
+  },
+  "reye1240": {
+    "tones": false,
+    "stress": false
+  },
+  "bara1380": {
+    "tones": false,
+    "stress": false
+  },
+  "desa1247": {
+    "tones": false,
+    "stress": false
+  },
+  "cara1272": {
+    "tones": false,
+    "stress": false
+  },
+  "kore1283": {
+    "tones": false,
+    "stress": false
+  },
+  "macu1260": {
+    "tones": false,
+    "stress": false
+  },
+  "orej1242": {
+    "tones": false,
+    "stress": false
+  },
+  "pira1254": {
+    "tones": false,
+    "stress": false
+  },
+  "siri1274": {
+    "tones": false,
+    "stress": false
+  },
+  "tani1257": {
+    "tones": false,
+    "stress": false
+  },
+  "tuca1252": {
+    "tones": false,
+    "stress": false
+  },
+  "tuyu1244": {
+    "tones": false,
+    "stress": false
+  },
+  "yuru1263": {
+    "tones": false,
+    "stress": false
+  },
+  "akun1241": {
+    "tones": false,
+    "stress": false
+  },
+  "amun1246": {
+    "tones": false,
+    "stress": false
+  },
+  "apia1248": {
+    "tones": false,
+    "stress": false
+  },
+  "araw1273": {
+    "tones": false,
+    "stress": false
+  },
+  "xing1248": {
+    "tones": false,
+    "stress": false
+  },
+  "toca1235": {
+    "tones": false,
+    "stress": false
+  },
+  "avac1239": {
+    "tones": false,
+    "stress": false
+  },
+  "awet1244": {
+    "tones": false,
+    "stress": false
+  },
+  "east2555": {
+    "tones": false,
+    "stress": false
+  },
+  "emer1243": {
+    "tones": false,
+    "stress": false
+  },
+  "gavi1246": {
+    "tones": false,
+    "stress": false
+  },
+  "guaj1256": {
+    "tones": false,
+    "stress": false
+  },
+  "mbya1239": {
+    "tones": false,
+    "stress": false
+  },
+  "guar1292": {
+    "tones": false,
+    "stress": false
+  },
+  "juma1249": {
+    "tones": false,
+    "stress": false
+  },
+  "juru1256": {
+    "tones": false,
+    "stress": false
+  },
+  "urub1250": {
+    "tones": false,
+    "stress": false
+  },
+  "kaiw1246": {
+    "tones": false,
+    "stress": false
+  },
+  "kama1373": {
+    "tones": false,
+    "stress": false
+  },
+  "kuru1309": {
+    "tones": false,
+    "stress": false
+  },
+  "maku1278": {
+    "tones": false,
+    "stress": false
+  },
+  "nhen1239": {
+    "tones": false,
+    "stress": false
+  },
+  "omag1248": {
+    "tones": false,
+    "stress": false
+  },
+  "pait1247": {
+    "tones": false,
+    "stress": false
+  },
+  "para1312": {
+    "tones": false,
+    "stress": false
+  },
+  "sate1243": {
+    "tones": false,
+    "stress": false
+  },
+  "suru1262": {
+    "tones": false,
+    "stress": false
+  },
+  "tapi1254": {
+    "tones": false,
+    "stress": false
+  },
+  "temb1276": {
+    "tones": false,
+    "stress": false
+  },
+  "tenh1241": {
+    "tones": false,
+    "stress": false
+  },
+  "tupa1250": {
+    "tones": false,
+    "stress": false
+  },
+  "tupi1273": {
+    "tones": false,
+    "stress": false
+  },
+  "urue1240": {
+    "tones": false,
+    "stress": false
+  },
+  "waya1270": {
+    "tones": false,
+    "stress": false
+  },
+  "xeta1241": {
+    "tones": false,
+    "stress": false
+  },
+  "xipa1240": {
+    "tones": false,
+    "stress": false
+  },
+  "zoee1240": {
+    "tones": false,
+    "stress": false
+  },
+  "yuqu1240": {
+    "tones": false,
+    "stress": false
+  },
+  "mato1253": {
+    "tones": false,
+    "stress": false
+  },
+  "yuwa1244": {
+    "tones": false,
+    "stress": false
+  },
+  "kari1255": {
+    "tones": false,
+    "stress": false
+  },
+  "kunz1244": {
+    "tones": false,
+    "stress": false
+  },
+  "pume1238": {
+    "tones": false,
+    "stress": false
+  },
+  "chip1262": {
+    "tones": false,
+    "stress": false
+  },
+  "uruu1244": {
+    "tones": false,
+    "stress": false
+  },
+  "mini1256": {
+    "tones": false,
+    "stress": false
+  },
+  "muru1274": {
+    "tones": false,
+    "stress": false
+  },
+  "nonu1241": {
+    "tones": false,
+    "stress": false
+  },
+  "nina1238": {
+    "tones": false,
+    "stress": false
+  },
+  "yano1262": {
+    "tones": false,
+    "stress": false
+  },
+  "yano1261": {
+    "tones": false,
+    "stress": false
+  },
+  "cham1315": {
+    "tones": false,
+    "stress": false
+  },
+  "ayor1240": {
+    "tones": false,
+    "stress": false
+  },
+  "ando1255": {
+    "tones": false,
+    "stress": false
+  },
+  "iqui1243": {
+    "tones": false,
+    "stress": false
+  },
+  "zapa1253": {
+    "tones": false,
+    "stress": false
+  },
+  "chir1286": {
+    "tones": false,
+    "stress": false
+  },
+  "pisa1245": {
+    "tones": false,
+    "stress": false
+  },
+  "yaro1235": {
+    "tones": false,
+    "stress": false
+  },
+  "paca1246": {
+    "tones": false,
+    "stress": false
+  },
+  "yukp1241": {
+    "tones": false,
+    "stress": false
+  },
+  "trin1274": {
+    "tones": false,
+    "stress": false
+  },
+  "stan1318": {
+    "tones": false,
+    "stress": false
+  },
+  "dani1285": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2832": {
+    "tones": false,
+    "stress": false
+  },
+  "esto1258": {
+    "tones": false,
+    "stress": false
+  },
+  "swis1247": {
+    "tones": false,
+    "stress": false
+  },
+  "ladi1251": {
+    "tones": false,
+    "stress": false
+  },
+  "ersu1241": {
+    "tones": false,
+    "stress": false
+  },
+  "luxe1241": {
+    "tones": false,
+    "stress": false
+  },
+  "besi1244": {
+    "tones": false,
+    "stress": false
+  },
+  "mafe1237": {
+    "tones": false,
+    "stress": false
+  },
+  "cent2092": {
+    "tones": false,
+    "stress": false
+  },
+  "slov1269": {
+    "tones": false,
+    "stress": false
+  },
+  "taus1251": {
+    "tones": false,
+    "stress": false
+  },
+  "sanm1298": {
+    "tones": false,
+    "stress": false
+  },
+  "isth1244": {
+    "tones": false,
+    "stress": false
+  },
+  "taji1245": {
+    "tones": false,
+    "stress": false
+  },
+  "kumz1235": {
+    "tones": false,
+    "stress": false
+  },
+  "coco1260": {
+    "tones": false,
+    "stress": false
+  },
+  "plau1238": {
+    "tones": false,
+    "stress": false
+  },
+  "keda1250": {
+    "tones": false,
+    "stress": false
+  },
+  "pitj1243": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2672": {
+    "tones": false,
+    "stress": false
+  },
+  "vlax1238": {
+    "tones": false,
+    "stress": false
+  },
+  "shix1238": {
+    "tones": false,
+    "stress": false
+  },
+  "uppe1400": {
+    "tones": false,
+    "stress": false
+  },
+  "pite1240": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2671": {
+    "tones": false,
+    "stress": false
+  },
+  "belh1239": {
+    "tones": false,
+    "stress": false
+  },
+  "hunz1247": {
+    "tones": false,
+    "stress": false
+  },
+  "even1259": {
+    "tones": false,
+    "stress": false
+  },
+  "hmon1264": {
+    "tones": false,
+    "stress": false
+  },
+  "udmu1245": {
+    "tones": false,
+    "stress": false
+  },
+  "east2337": {
+    "tones": false,
+    "stress": false
+  },
+  "moks1248": {
+    "tones": false,
+    "stress": false
+  },
+  "rajb1243": {
+    "tones": false,
+    "stress": false
+  },
+  "bakh1245": {
+    "tones": false,
+    "stress": false
+  },
+  "cent1972": {
+    "tones": false,
+    "stress": false
+  },
+  "dolg1241": {
+    "tones": false,
+    "stress": false
+  },
+  "dark1243": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2697": {
+    "tones": false,
+    "stress": false
+  },
+  "kild1236": {
+    "tones": false,
+    "stress": false
+  },
+  "lowa1242": {
+    "tones": false,
+    "stress": false
+  },
+  "stod1241": {
+    "tones": false,
+    "stress": false
+  },
+  "yong1270": {
+    "tones": false,
+    "stress": false
+  },
+  "bese1243": {
+    "tones": false,
+    "stress": false
+  },
+  "ishk1246": {
+    "tones": false,
+    "stress": false
+  },
+  "west2392": {
+    "tones": false,
+    "stress": false
+  },
+  "mira1251": {
+    "tones": false,
+    "stress": false
+  },
+  "chal1275": {
+    "tones": false,
+    "stress": false
+  },
+  "jude1256": {
+    "tones": false,
+    "stress": false
+  },
+  "munj1244": {
+    "tones": false,
+    "stress": false
+  },
+  "nauk1242": {
+    "tones": false,
+    "stress": false
+  },
+  "thak1245": {
+    "tones": false,
+    "stress": false
+  },
+  "puxi1242": {
+    "tones": false,
+    "stress": false
+  },
+  "bujh1238": {
+    "tones": false,
+    "stress": false
+  },
+  "kang1281": {
+    "tones": false,
+    "stress": false
+  },
+  "roma1326": {
+    "tones": false,
+    "stress": false
+  },
+  "sher1255": {
+    "tones": false,
+    "stress": false
+  },
+  "lezg1247": {
+    "tones": false,
+    "stress": false
+  },
+  "huml1238": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2741": {
+    "tones": false,
+    "stress": false
+  },
+  "dhiv1236": {
+    "tones": false,
+    "stress": false
+  },
+  "russ1264": {
+    "tones": false,
+    "stress": false
+  },
+  "kara1467": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2646": {
+    "tones": false,
+    "stress": false
+  },
+  "ligu1248": {
+    "tones": false,
+    "stress": false
+  },
+  "voti1245": {
+    "tones": false,
+    "stress": false
+  },
+  "kham1282": {
+    "tones": false,
+    "stress": false
+  },
+  "dido1241": {
+    "tones": false,
+    "stress": false
+  },
+  "wymy1235": {
+    "tones": false,
+    "stress": false
+  },
+  "gaga1249": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2647": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2746": {
+    "tones": false,
+    "stress": false
+  },
+  "kuni1268": {
+    "tones": false,
+    "stress": false
+  },
+  "rusy1239": {
+    "tones": false,
+    "stress": false
+  },
+  "guru1261": {
+    "tones": false,
+    "stress": false
+  },
+  "west2368": {
+    "tones": false,
+    "stress": false
+  },
+  "baim1244": {
+    "tones": false,
+    "stress": false
+  },
+  "adyg1241": {
+    "tones": false,
+    "stress": false
+  },
+  "dakp1242": {
+    "tones": false,
+    "stress": false
+  },
+  "lizu1234": {
+    "tones": false,
+    "stress": false
+  },
+  "kumy1244": {
+    "tones": false,
+    "stress": false
+  },
+  "chan1310": {
+    "tones": false,
+    "stress": false
+  },
+  "bhoj1244": {
+    "tones": false,
+    "stress": false
+  },
+  "gheg1238": {
+    "tones": false,
+    "stress": false
+  },
+  "rawa1265": {
+    "tones": false,
+    "stress": false
+  },
+  "saek1240": {
+    "tones": false,
+    "stress": false
+  },
+  "pare1266": {
+    "tones": false,
+    "stress": false
+  },
+  "shan1277": {
+    "tones": false,
+    "stress": false
+  },
+  "spit1240": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2686": {
+    "tones": false,
+    "stress": false
+  },
+  "faro1244": {
+    "tones": false,
+    "stress": false
+  },
+  "dzal1238": {
+    "tones": false,
+    "stress": false
+  },
+  "basq1250": {
+    "tones": false,
+    "stress": false
+  },
+  "komi1277": {
+    "tones": false,
+    "stress": false
+  },
+  "puoc1238": {
+    "tones": false,
+    "stress": false
+  },
+  "east2773": {
+    "tones": false,
+    "stress": false
+  },
+  "hela1238": {
+    "tones": false,
+    "stress": false
+  },
+  "svan1243": {
+    "tones": false,
+    "stress": false
+  },
+  "kyer1238": {
+    "tones": false,
+    "stress": false
+  },
+  "dzon1239": {
+    "tones": false,
+    "stress": false
+  },
+  "wayu1241": {
+    "tones": false,
+    "stress": false
+  },
+  "kara1464": {
+    "tones": false,
+    "stress": false
+  },
+  "varl1238": {
+    "tones": false,
+    "stress": false
+  },
+  "wels1247": {
+    "tones": false,
+    "stress": false
+  },
+  "japh1234": {
+    "tones": false,
+    "stress": false
+  },
+  "alut1245": {
+    "tones": false,
+    "stress": false
+  },
+  "sikk1242": {
+    "tones": false,
+    "stress": false
+  },
+  "yagn1238": {
+    "tones": false,
+    "stress": false
+  },
+  "zhon1235": {
+    "tones": false,
+    "stress": false
+  },
+  "nyaw1245": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2722": {
+    "tones": false,
+    "stress": false
+  },
+  "khak1248": {
+    "tones": false,
+    "stress": false
+  },
+  "vach1239": {
+    "tones": false,
+    "stress": false
+  },
+  "arbe1236": {
+    "tones": false,
+    "stress": false
+  },
+  "kurt1248": {
+    "tones": false,
+    "stress": false
+  },
+  "kara1474": {
+    "tones": false,
+    "stress": false
+  },
+  "norw1258": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2679": {
+    "tones": false,
+    "stress": false
+  },
+  "kare1335": {
+    "tones": false,
+    "stress": false
+  },
+  "livv1244": {
+    "tones": false,
+    "stress": false
+  },
+  "fore1274": {
+    "tones": false,
+    "stress": false
+  },
+  "miya1259": {
+    "tones": false,
+    "stress": false
+  },
+  "maga1260": {
+    "tones": false,
+    "stress": false
+  },
+  "puri1258": {
+    "tones": false,
+    "stress": false
+  },
+  "kama1351": {
+    "tones": false,
+    "stress": false
+  },
+  "dhim1246": {
+    "tones": false,
+    "stress": false
+  },
+  "mong1331": {
+    "tones": false,
+    "stress": false
+  },
+  "andi1255": {
+    "tones": false,
+    "stress": false
+  },
+  "abkh1244": {
+    "tones": false,
+    "stress": false
+  },
+  "fore1265": {
+    "tones": false,
+    "stress": false
+  },
+  "west2354": {
+    "tones": false,
+    "stress": false
+  },
+  "taid1249": {
+    "tones": false,
+    "stress": false
+  },
+  "elfd1234": {
+    "tones": false,
+    "stress": false
+  },
+  "chen1255": {
+    "tones": false,
+    "stress": false
+  },
+  "mans1258": {
+    "tones": false,
+    "stress": false
+  },
+  "dong1285": {
+    "tones": false,
+    "stress": false
+  },
+  "occi1239": {
+    "tones": false,
+    "stress": false
+  },
+  "kond1303": {
+    "tones": false,
+    "stress": false
+  },
+  "sich1238": {
+    "tones": false,
+    "stress": false
+  },
+  "veps1250": {
+    "tones": false,
+    "stress": false
+  },
+  "merg1238": {
+    "tones": false,
+    "stress": false
+  },
+  "stan1325": {
+    "tones": false,
+    "stress": false
+  },
+  "ters1235": {
+    "tones": false,
+    "stress": false
+  },
+  "east2304": {
+    "tones": false,
+    "stress": false
+  },
+  "serb1264": {
+    "tones": false,
+    "stress": false
+  },
+  "shum1243": {
+    "tones": false,
+    "stress": false
+  },
+  "scot1243": {
+    "tones": false,
+    "stress": false
+  },
+  "mehr1241": {
+    "tones": false,
+    "stress": false
+  },
+  "wakh1245": {
+    "tones": false,
+    "stress": false
+  },
+  "astu1245": {
+    "tones": false,
+    "stress": false
+  },
+  "phut1244": {
+    "tones": false,
+    "stress": false
+  },
+  "nort2740": {
+    "tones": false,
+    "stress": false
+  },
+  "sala1264": {
+    "tones": false,
+    "stress": false
+  },
+  "walu1241": {
+    "tones": false,
+    "stress": false
+  },
+  "doma1258": {
+    "tones": false,
+    "stress": false
+  },
+  "amdo1237": {
+    "tones": false,
+    "stress": false
+  },
+  "khal1271": {
+    "tones": false,
+    "stress": false
+  },
+  "west2408": {
+    "tones": false,
+    "stress": false
+  },
+  "kara1462": {
+    "tones": false,
+    "stress": false
+  },
+  "uppe1395": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2642": {
+    "tones": false,
+    "stress": false
+  },
+  "camp1261": {
+    "tones": false,
+    "stress": false
+  },
+  "acha1249": {
+    "tones": false,
+    "stress": false
+  },
+  "axiy1235": {
+    "tones": false,
+    "stress": false
+  },
+  "temi1246": {
+    "tones": false,
+    "stress": false
+  },
+  "ghod1238": {
+    "tones": false,
+    "stress": false
+  },
+  "skol1241": {
+    "tones": false,
+    "stress": false
+  },
+  "jahh1242": {
+    "tones": false,
+    "stress": false
+  },
+  "udih1248": {
+    "tones": false,
+    "stress": false
+  },
+  "tain1252": {
+    "tones": false,
+    "stress": false
+  },
+  "komi1269": {
+    "tones": false,
+    "stress": false
+  },
+  "taid1248": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2729": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2436": {
+    "tones": false,
+    "stress": false
+  },
+  "bona1250": {
+    "tones": false,
+    "stress": false
+  },
+  "wane1241": {
+    "tones": false,
+    "stress": false
+  },
+  "digo1242": {
+    "tones": false,
+    "stress": false
+  },
+  "east2282": {
+    "tones": false,
+    "stress": false
+  },
+  "turk1304": {
+    "tones": false,
+    "stress": false
+  },
+  "jerr1238": {
+    "tones": false,
+    "stress": false
+  },
+  "kalm1243": {
+    "tones": false,
+    "stress": false
+  },
+  "scot1245": {
+    "tones": false,
+    "stress": false
+  },
+  "lowe1385": {
+    "tones": false,
+    "stress": false
+  },
+  "najd1235": {
+    "tones": false,
+    "stress": false
+  },
+  "tata1255": {
+    "tones": false,
+    "stress": false
+  },
+  "uigh1240": {
+    "tones": false,
+    "stress": false
+  },
+  "erzy1239": {
+    "tones": false,
+    "stress": false
+  },
+  "narp1239": {
+    "tones": false,
+    "stress": false
+  },
+  "sheh1240": {
+    "tones": false,
+    "stress": false
+  },
+  "pnar1238": {
+    "tones": false,
+    "stress": false
+  },
+  "buna1275": {
+    "tones": false,
+    "stress": false
+  },
+  "goon1238": {
+    "tones": false,
+    "stress": false
+  },
+  "madn1237": {
+    "tones": false,
+    "stress": false
+  },
+  "murr1259": {
+    "tones": false,
+    "stress": false
+  },
+  "wadj1254": {
+    "tones": false,
+    "stress": false
+  },
+  "mari1417": {
+    "tones": false,
+    "stress": false
+  },
+  "mari1419": {
+    "tones": false,
+    "stress": false
+  },
+  "mari1424": {
+    "tones": false,
+    "stress": false
+  },
+  "mart1254": {
+    "tones": false,
+    "stress": false
+  },
+  "amii1238": {
+    "tones": false,
+    "stress": false
+  },
+  "lara1258": {
+    "tones": false,
+    "stress": false
+  },
+  "nucl1327": {
+    "tones": false,
+    "stress": false
+  },
+  "umbu1235": {
+    "tones": false,
+    "stress": false
+  },
+  "wany1247": {
+    "tones": false,
+    "stress": false
+  },
+  "erre1238": {
+    "tones": false,
+    "stress": false
+  },
+  "mang1382": {
+    "tones": false,
+    "stress": false
+  },
+  "urni1239": {
+    "tones": false,
+    "stress": false
+  },
+  "anin1240": {
+    "tones": false,
+    "stress": false
+  },
+  "ngal1292": {
+    "tones": false,
+    "stress": false
+  },
+  "gaga1251": {
+    "tones": false,
+    "stress": false
+  },
+  "ngan1295": {
+    "tones": false,
+    "stress": false
+  },
+  "gund1246": {
+    "tones": false,
+    "stress": false
+  },
+  "gune1238": {
+    "tones": false,
+    "stress": false
+  },
+  "mura1269": {
+    "tones": false,
+    "stress": false
+  },
+  "guma1252": {
+    "tones": false,
+    "stress": false
+  },
+  "naia1238": {
+    "tones": false,
+    "stress": false
+  },
+  "djau1244": {
+    "tones": false,
+    "stress": false
+  },
+  "remb1249": {
+    "tones": false,
+    "stress": false
+  },
+  "amar1271": {
+    "tones": false,
+    "stress": false
+  },
+  "marg1251": {
+    "tones": false,
+    "stress": false
+  },
+  "wurr1238": {
+    "tones": false,
+    "stress": false
+  },
+  "gari1254": {
+    "tones": false,
+    "stress": false
+  },
+  "ilga1238": {
+    "tones": false,
+    "stress": false
+  },
+  "iwai1244": {
+    "tones": false,
+    "stress": false
+  },
+  "miri1266": {
+    "tones": false,
+    "stress": false
+  },
+  "kitj1240": {
+    "tones": false,
+    "stress": false
+  },
+  "kung1259": {
+    "tones": false,
+    "stress": false
+  },
+  "djee1236": {
+    "tones": false,
+    "stress": false
+  },
+  "gura1252": {
+    "tones": false,
+    "stress": false
+  },
+  "naka1260": {
+    "tones": false,
+    "stress": false
+  },
+  "wand1263": {
+    "tones": false,
+    "stress": false
+  },
+  "mang1381": {
+    "tones": false,
+    "stress": false
+  },
+  "djam1255": {
+    "tones": false,
+    "stress": false
+  },
+  "ngal1294": {
+    "tones": false,
+    "stress": false
+  },
+  "nung1291": {
+    "tones": false,
+    "stress": false
+  },
+  "ngar1283": {
+    "tones": false,
+    "stress": false
+  },
+  "djin1251": {
+    "tones": false,
+    "stress": false
+  },
+  "binb1242": {
+    "tones": false,
+    "stress": false
+  },
+  "guda1243": {
+    "tones": false,
+    "stress": false
+  },
+  "wamb1258": {
+    "tones": false,
+    "stress": false
+  },
+  "mink1237": {
+    "tones": false,
+    "stress": false
+  },
+  "ngum1253": {
+    "tones": false,
+    "stress": false
+  },
+  "nyig1240": {
+    "tones": false,
+    "stress": false
+  },
+  "warr1258": {
+    "tones": false,
+    "stress": false
+  },
+  "dyug1238": {
+    "tones": false,
+    "stress": false
+  },
+  "yawu1244": {
+    "tones": false,
+    "stress": false
+  },
+  "nima1245": {
+    "tones": false,
+    "stress": false
+  },
+  "dyab1238": {
+    "tones": false,
+    "stress": false
+  },
+  "djaw1238": {
+    "tones": false,
+    "stress": false
+  },
+  "nyul1247": {
+    "tones": false,
+    "stress": false
+  },
+  "east2380": {
+    "tones": false,
+    "stress": false
+  },
+  "west2442": {
+    "tones": false,
+    "stress": false
+  },
+  "ande1247": {
+    "tones": false,
+    "stress": false
+  },
+  "mpar1238": {
+    "tones": false,
+    "stress": false
+  },
+  "ayer1246": {
+    "tones": false,
+    "stress": false
+  },
+  "lowe1436": {
+    "tones": false,
+    "stress": false
+  },
+  "kayt1238": {
+    "tones": false,
+    "stress": false
+  },
+  "yugu1249": {
+    "tones": false,
+    "stress": false
+  },
+  "gida1240": {
+    "tones": false,
+    "stress": false
+  },
+  "guwa1244": {
+    "tones": false,
+    "stress": false
+  },
+  "minj1242": {
+    "tones": false,
+    "stress": false
+  },
+  "waal1238": {
+    "tones": false,
+    "stress": false
+  },
+  "bung1264": {
+    "tones": false,
+    "stress": false
+  },
+  "warr1257": {
+    "tones": false,
+    "stress": false
+  },
+  "gami1243": {
+    "tones": false,
+    "stress": false
+  },
+  "muru1266": {
+    "tones": false,
+    "stress": false
+  },
+  "wayi1238": {
+    "tones": false,
+    "stress": false
+  },
+  "wira1262": {
+    "tones": false,
+    "stress": false
+  },
+  "wirr1237": {
+    "tones": false,
+    "stress": false
+  },
+  "yuwa1242": {
+    "tones": false,
+    "stress": false
+  },
+  "yuwa1243": {
+    "tones": false,
+    "stress": false
+  },
+  "dhud1236": {
+    "tones": false,
+    "stress": false
+  },
+  "jand1248": {
+    "tones": false,
+    "stress": false
+  },
+  "NA": {
+    "tones": false,
+    "stress": false
+  },
+  "yaga1262": {
+    "tones": false,
+    "stress": false
+  },
+  "warr1255": {
+    "tones": false,
+    "stress": false
+  },
+  "kumb1268": {
+    "tones": false,
+    "stress": false
+  },
+  "yayg1236": {
+    "tones": false,
+    "stress": false
+  },
+  "guwa1242": {
+    "tones": false,
+    "stress": false
+  },
+  "yand1251": {
+    "tones": false,
+    "stress": false
+  },
+  "yala1262": {
+    "tones": false,
+    "stress": false
+  },
+  "bayu1240": {
+    "tones": false,
+    "stress": false
+  },
+  "burd1238": {
+    "tones": false,
+    "stress": false
+  },
+  "dhal1245": {
+    "tones": false,
+    "stress": false
+  },
+  "djiw1241": {
+    "tones": false,
+    "stress": false
+  },
+  "dhar1247": {
+    "tones": false,
+    "stress": false
+  },
+  "thii1234": {
+    "tones": false,
+    "stress": false
+  },
+  "wari1262": {
+    "tones": false,
+    "stress": false
+  },
+  "mith1236": {
+    "tones": false,
+    "stress": false
+  },
+  "dira1238": {
+    "tones": false,
+    "stress": false
+  },
+  "kara1508": {
+    "tones": false,
+    "stress": false
+  },
+  "ngam1284": {
+    "tones": false,
+    "stress": false
+  },
+  "pirl1238": {
+    "tones": false,
+    "stress": false
+  },
+  "yand1253": {
+    "tones": false,
+    "stress": false
+  },
+  "nhir1234": {
+    "tones": false,
+    "stress": false
+  },
+  "yawa1258": {
+    "tones": false,
+    "stress": false
+  },
+  "punt1240": {
+    "tones": false,
+    "stress": false
+  },
+  "wong1246": {
+    "tones": false,
+    "stress": false
+  },
+  "arab1267": {
+    "tones": false,
+    "stress": false
+  },
+  "wang1290": {
+    "tones": false,
+    "stress": false
+  },
+  "pitt1247": {
+    "tones": false,
+    "stress": false
+  },
+  "wang1289": {
+    "tones": false,
+    "stress": false
+  },
+  "kuun1236": {
+    "tones": false,
+    "stress": false
+  },
+  "pirr1240": {
+    "tones": false,
+    "stress": false
+  },
+  "kala1380": {
+    "tones": false,
+    "stress": false
+  },
+  "badi1246": {
+    "tones": false,
+    "stress": false
+  },
+  "malg1242": {
+    "tones": false,
+    "stress": false
+  },
+  "nhan1238": {
+    "tones": false,
+    "stress": false
+  },
+  "waja1257": {
+    "tones": false,
+    "stress": false
+  },
+  "ying1247": {
+    "tones": false,
+    "stress": false
+  },
+  "cola1237": {
+    "tones": false,
+    "stress": false
+  },
+  "daun1234": {
+    "tones": false,
+    "stress": false
+  },
+  "woiw1237": {
+    "tones": false,
+    "stress": false
+  },
+  "wath1238": {
+    "tones": false,
+    "stress": false
+  },
+  "yari1243": {
+    "tones": false,
+    "stress": false
+  },
+  "ladj1234": {
+    "tones": false,
+    "stress": false
+  },
+  "madh1244": {
+    "tones": false,
+    "stress": false
+  },
+  "wadi1260": {
+    "tones": false,
+    "stress": false
+  },
+  "west2443": {
+    "tones": false,
+    "stress": false
+  },
+  "djad1246": {
+    "tones": false,
+    "stress": false
+  },
+  "nari1241": {
+    "tones": false,
+    "stress": false
+  },
+  "djab1234": {
+    "tones": false,
+    "stress": false
+  },
+  "wemb1241": {
+    "tones": false,
+    "stress": false
+  },
+  "wotj1234": {
+    "tones": false,
+    "stress": false
+  },
+  "gana1268": {
+    "tones": false,
+    "stress": false
+  },
+  "gana1278": {
+    "tones": false,
+    "stress": false
+  },
+  "kera1256": {
+    "tones": false,
+    "stress": false
+  },
+  "lowe1402": {
+    "tones": false,
+    "stress": false
+  },
+  "ngin1247": {
+    "tones": false,
+    "stress": false
+  },
+  "narr1259": {
+    "tones": false,
+    "stress": false
+  },
+  "yith1234": {
+    "tones": false,
+    "stress": false
+  },
+  "bidy1243": {
+    "tones": false,
+    "stress": false
+  },
+  "gang1268": {
+    "tones": false,
+    "stress": false
+  },
+  "biri1256": {
+    "tones": false,
+    "stress": false
+  },
+  "dhar1248": {
+    "tones": false,
+    "stress": false
+  },
+  "gung1248": {
+    "tones": false,
+    "stress": false
+  },
+  "kung1258": {
+    "tones": false,
+    "stress": false
+  },
+  "guny1241": {
+    "tones": false,
+    "stress": false
+  },
+  "marg1253": {
+    "tones": false,
+    "stress": false
+  },
+  "gudj1237": {
+    "tones": false,
+    "stress": false
+  },
+  "gugu1253": {
+    "tones": false,
+    "stress": false
+  },
+  "waru1264": {
+    "tones": false,
+    "stress": false
+  },
+  "mang1383": {
+    "tones": false,
+    "stress": false
+  },
+  "guga1239": {
+    "tones": false,
+    "stress": false
+  },
+  "mayi1236": {
+    "tones": false,
+    "stress": false
+  },
+  "maya1280": {
+    "tones": false,
+    "stress": false
+  },
+  "ngaw1240": {
+    "tones": false,
+    "stress": false
+  },
+  "mayi1235": {
+    "tones": false,
+    "stress": false
+  },
+  "kala1379": {
+    "tones": false,
+    "stress": false
+  },
+  "kala1401": {
+    "tones": false,
+    "stress": false
+  },
+  "ngad1258": {
+    "tones": false,
+    "stress": false
+  },
+  "kari1304": {
+    "tones": false,
+    "stress": false
+  },
+  "kurr1243": {
+    "tones": false,
+    "stress": false
+  },
+  "mart1255": {
+    "tones": false,
+    "stress": false
+  },
+  "yinh1234": {
+    "tones": false,
+    "stress": false
+  },
+  "ngar1287": {
+    "tones": false,
+    "stress": false
+  },
+  "nhuw1239": {
+    "tones": false,
+    "stress": false
+  },
+  "nyam1271": {
+    "tones": false,
+    "stress": false
+  },
+  "nija1241": {
+    "tones": false,
+    "stress": false
+  },
+  "pany1241": {
+    "tones": false,
+    "stress": false
+  },
+  "yind1247": {
+    "tones": false,
+    "stress": false
+  },
+  "wany1244": {
+    "tones": false,
+    "stress": false
+  },
+  "guri1247": {
+    "tones": false,
+    "stress": false
+  },
+  "jaru1254": {
+    "tones": false,
+    "stress": false
+  },
+  "maln1239": {
+    "tones": false,
+    "stress": false
+  },
+  "mudb1240": {
+    "tones": false,
+    "stress": false
+  },
+  "ngar1288": {
+    "tones": false,
+    "stress": false
+  },
+  "ngar1235": {
+    "tones": false,
+    "stress": false
+  },
+  "walm1241": {
+    "tones": false,
+    "stress": false
+  },
+  "warl1255": {
+    "tones": false,
+    "stress": false
+  },
+  "warl1254": {
+    "tones": false,
+    "stress": false
+  },
+  "nyaw1247": {
+    "tones": false,
+    "stress": false
+  },
+  "wulg1239": {
+    "tones": false,
+    "stress": false
+  },
+  "nyun1247": {
+    "tones": false,
+    "stress": false
+  },
+  "bibb1234": {
+    "tones": false,
+    "stress": false
+  },
+  "gore1235": {
+    "tones": false,
+    "stress": false
+  },
+  "kani1276": {
+    "tones": false,
+    "stress": false
+  },
+  "pinj1244": {
+    "tones": false,
+    "stress": false
+  },
+  "ward1248": {
+    "tones": false,
+    "stress": false
+  },
+  "waju1234": {
+    "tones": false,
+    "stress": false
+  },
+  "band1337": {
+    "tones": false,
+    "stress": false
+  },
+  "darl1243": {
+    "tones": false,
+    "stress": false
+  },
+  "pall1243": {
+    "tones": false,
+    "stress": false
+  },
+  "ikar1243": {
+    "tones": false,
+    "stress": false
+  },
+  "aghu1254": {
+    "tones": false,
+    "stress": false
+  },
+  "thay1248": {
+    "tones": false,
+    "stress": false
+  },
+  "kawa1290": {
+    "tones": false,
+    "stress": false
+  },
+  "angu1242": {
+    "tones": false,
+    "stress": false
+  },
+  "gugu1255": {
+    "tones": false,
+    "stress": false
+  },
+  "mulu1243": {
+    "tones": false,
+    "stress": false
+  },
+  "dyaa1242": {
+    "tones": false,
+    "stress": false
+  },
+  "barr1247": {
+    "tones": false,
+    "stress": false
+  },
+  "djan1238": {
+    "tones": false,
+    "stress": false
+  },
+  "lamu1254": {
+    "tones": false,
+    "stress": false
+  },
+  "mbar1253": {
+    "tones": false,
+    "stress": false
+  },
+  "wikn1245": {
+    "tones": false,
+    "stress": false
+  },
+  "ayab1239": {
+    "tones": false,
+    "stress": false
+  },
+  "wikn1246": {
+    "tones": false,
+    "stress": false
+  },
+  "kuuk1238": {
+    "tones": false,
+    "stress": false
+  },
+  "paka1251": {
+    "tones": false,
+    "stress": false
+  },
+  "umpi1239": {
+    "tones": false,
+    "stress": false
+  },
+  "kokn1236": {
+    "tones": false,
+    "stress": false
+  },
+  "gurd1238": {
+    "tones": false,
+    "stress": false
+  },
+  "kuth1240": {
+    "tones": false,
+    "stress": false
+  },
+  "wala1263": {
+    "tones": false,
+    "stress": false
+  },
+  "alng1239": {
+    "tones": false,
+    "stress": false
+  },
+  "arit1239": {
+    "tones": false,
+    "stress": false
+  },
+  "ndra1239": {
+    "tones": false,
+    "stress": false
+  },
+  "tyan1235": {
+    "tones": false,
+    "stress": false
+  },
+  "leni1238": {
+    "tones": false,
+    "stress": false
+  },
+  "luth1234": {
+    "tones": false,
+    "stress": false
+  },
+  "mbiy1238": {
+    "tones": false,
+    "stress": false
+  },
+  "mpal1238": {
+    "tones": false,
+    "stress": false
+  },
+  "ngko1236": {
+    "tones": false,
+    "stress": false
+  },
+  "atam1239": {
+    "tones": false,
+    "stress": false
+  },
+  "angg1238": {
+    "tones": false,
+    "stress": false
+  },
+  "yadh1237": {
+    "tones": false,
+    "stress": false
+  },
+  "yinw1236": {
+    "tones": false,
+    "stress": false
+  },
+  "gugu1254": {
+    "tones": false,
+    "stress": false
+  },
+  "thay1249": {
+    "tones": false,
+    "stress": false
+  },
+  "ulku1238": {
+    "tones": false,
+    "stress": false
+  },
+  "yiry1245": {
+    "tones": false,
+    "stress": false
+  },
+  "wami1239": {
+    "tones": false,
+    "stress": false
+  },
+  "mbar1254": {
+    "tones": false,
+    "stress": false
+  },
+  "umbu1256": {
+    "tones": false,
+    "stress": false
+  },
+  "oyka1239": {
+    "tones": false,
+    "stress": false
+  },
+  "adny1235": {
+    "tones": false,
+    "stress": false
+  },
+  "kaur1267": {
+    "tones": false,
+    "stress": false
+  },
+  "nugu1241": {
+    "tones": false,
+    "stress": false
+  },
+  "wira1265": {
+    "tones": false,
+    "stress": false
+  },
+  "bang1339": {
+    "tones": false,
+    "stress": false
+  },
+  "naru1238": {
+    "tones": false,
+    "stress": false
+  },
+  "koka1244": {
+    "tones": false,
+    "stress": false
+  },
+  "gure1255": {
+    "tones": false,
+    "stress": false
+  },
+  "kabi1260": {
+    "tones": false,
+    "stress": false
+  },
+  "gabi1248": {
+    "tones": false,
+    "stress": false
+  },
+  "duun1241": {
+    "tones": false,
+    "stress": false
+  },
+  "waka1274": {
+    "tones": false,
+    "stress": false
+  },
+  "wuli1242": {
+    "tones": false,
+    "stress": false
+  },
+  "bula1255": {
+    "tones": false,
+    "stress": false
+  },
+  "waga1260": {
+    "tones": false,
+    "stress": false
+  },
+  "warl1256": {
+    "tones": false,
+    "stress": false
+  },
+  "waru1265": {
+    "tones": false,
+    "stress": false
+  },
+  "kart1247": {
+    "tones": false,
+    "stress": false
+  },
+  "many1256": {
+    "tones": false,
+    "stress": false
+  },
+  "pudi1238": {
+    "tones": false,
+    "stress": false
+  },
+  "wang1288": {
+    "tones": false,
+    "stress": false
+  },
+  "yulp1239": {
+    "tones": false,
+    "stress": false
+  },
+  "wanm1242": {
+    "tones": false,
+    "stress": false
+  },
+  "kuka1246": {
+    "tones": false,
+    "stress": false
+  },
+  "ngar1296": {
+    "tones": false,
+    "stress": false
+  },
+  "ngaa1240": {
+    "tones": false,
+    "stress": false
+  },
+  "pint1250": {
+    "tones": false,
+    "stress": false
+  },
+  "yank1247": {
+    "tones": false,
+    "stress": false
+  },
+  "kala1378": {
+    "tones": false,
+    "stress": false
+  },
+  "maly1234": {
+    "tones": false,
+    "stress": false
+  },
+  "wadi1261": {
+    "tones": false,
+    "stress": false
+  },
+  "yard1234": {
+    "tones": false,
+    "stress": false
+  },
+  "dhan1270": {
+    "tones": false,
+    "stress": false
+  },
+  "gupa1247": {
+    "tones": false,
+    "stress": false
+  },
+  "dhal1246": {
+    "tones": false,
+    "stress": false
+  },
+  "djam1256": {
+    "tones": false,
+    "stress": false
+  },
+  "guma1253": {
+    "tones": false,
+    "stress": false
+  },
+  "djin1253": {
+    "tones": false,
+    "stress": false
+  },
+  "djin1252": {
+    "tones": false,
+    "stress": false
+  },
+  "yann1237": {
+    "tones": false,
+    "stress": false
+  },
+  "rita1239": {
+    "tones": false,
+    "stress": false
+  },
+  "yort1237": {
+    "tones": false,
+    "stress": false
+  },
+  "biga1237": {
+    "tones": false,
+    "stress": false
+  },
+  "yuga1244": {
+    "tones": false,
+    "stress": false
+  },
+  "hawk1239": {
+    "tones": false,
+    "stress": false
+  },
+  "sydn1236": {
+    "tones": false,
+    "stress": false
+  },
+  "awab1243": {
+    "tones": false,
+    "stress": false
+  },
+  "wori1245": {
+    "tones": false,
+    "stress": false
+  },
+  "ngan1296": {
+    "tones": false,
+    "stress": false
+  },
+  "dyan1250": {
+    "tones": false,
+    "stress": false
+  },
+  "djap1238": {
+    "tones": false,
+    "stress": false
+  },
+  "thur1254": {
+    "tones": false,
+    "stress": false
+  },
+  "dhur1239": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2771": {
+    "tones": false,
+    "stress": false
+  },
+  "gund1248": {
+    "tones": false,
+    "stress": false
+  },
+  "ngar1297": {
+    "tones": false,
+    "stress": false
+  },
+  "sout2770": {
+    "tones": false,
+    "stress": false
+  },
+  "gang1267": {
+    "tones": false,
+    "stress": false
+  },
+  "kaya1319": {
+    "tones": false,
+    "stress": false
+  },
+  "lard1243": {
+    "tones": false,
+    "stress": false
+  },
+  "wage1238": {
+    "tones": false,
+    "stress": false
+  },
+  "gamb1251": {
+    "tones": false,
+    "stress": false
+  },
+  "kwin1241": {
+    "tones": false,
+    "stress": false
+  },
+  "wuna1249": {
+    "tones": false,
+    "stress": false
+  },
+  "umii1236": {
+    "tones": false,
+    "stress": false
+  },
+  "ungg1243": {
+    "tones": false,
+    "stress": false
+  },
+  "worr1237": {
+    "tones": false,
+    "stress": false
+  },
+  "yawi1239": {
+    "tones": false,
+    "stress": false
+  },
+  "ward1246": {
+    "tones": false,
+    "stress": false
+  },
+  "yang1288": {
+    "tones": false,
+    "stress": false
+  },
+  "guwa1243": {
+    "tones": false,
+    "stress": false
+  },
+  "west2437": {
+    "tones": false,
+    "stress": false
+  },
+  "werg1234": {
+    "tones": false,
+    "stress": false
+  }
+}
