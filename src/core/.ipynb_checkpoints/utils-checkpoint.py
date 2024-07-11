@@ -2,9 +2,38 @@ import json
 import re
 from typing import Dict, List, Any
 
+language_phonemes_file = "language_phonemes.json"
+phoneme_features_file = "phoneme_features.json"
+
 def load_json(file_path: str) -> Dict:
     with open(file_path, 'r', encoding='utf-8') as f:
         return json.load(f)
+
+def get_phoneme_features(phoneme_inventory: List[str], phoneme_features_file: str) -> Dict[str, Dict[str, str]]:
+    """
+    Get the features for a given phoneme inventory.
+    
+    Args:
+    phoneme_inventory (List[str]): List of phonemes.
+    phoneme_features_file (str): Path to the phoneme_features.json file.
+    
+    Returns:
+    Dict[str, Dict[str, str]]: A dictionary mapping each phoneme to its features.
+    """
+    all_phoneme_features = load_json(phoneme_features_file)
+    inventory_features = {}
+    missing_phonemes = []
+    
+    for phoneme in phoneme_inventory:
+        if phoneme in all_phoneme_features:
+            inventory_features[phoneme] = all_phoneme_features[phoneme]
+        else:
+            missing_phonemes.append(phoneme)
+    
+    if missing_phonemes:
+        print(f"Warning: The following phonemes were not found in the features database: {', '.join(missing_phonemes)}")
+    
+    return inventory_features
 
 def phoneme_to_feature_vector(phoneme: str, feature_data: Dict[str, Dict[str, str]]) -> List[int]:
     """Convert a phoneme to a binary feature vector."""
@@ -30,6 +59,24 @@ def feature_vector_to_phoneme(vector: List[int], feature_data: Dict[str, Dict[st
     
     return best_match
 
+def get_phoneme_inventory(language_code: str, language_phonemes_file: str) -> List[str]:
+    """
+    Get the phoneme inventory for a specific language.
+    
+    Args:
+    language_code (str): The Glottocode or unique identifier for the language.
+    language_phonemes_file (str): Path to the language_phonemes.json file.
+    
+    Returns:
+    List[str]: A list of phonemes in the language's inventory.
+    """
+    language_phonemes = load_json(language_phonemes_file)
+    
+    if language_code not in language_phonemes:
+        raise ValueError(f"Language code '{language_code}' not found in the phoneme database.")
+    
+    return language_phonemes[language_code]
+
 def ipa_to_regex(ipa_string: str) -> str:
     """Convert IPA string to a regex pattern, escaping special characters."""
     special_chars = r'[](){}?*+|^$.\\'
@@ -45,7 +92,8 @@ def get_language_name(glottocode: str, language_data: Dict[str, Dict[str, str]])
     return language_data.get(glottocode, {}).get('LanguageName', 'Unknown')
 
 class PhonemeTokenizer:
-    def __init__(self, phoneme_inventory: List[str]):
+    def __init__(self, language_code):
+        phoneme_inventory = get_phoneme_inventory(language_code, language_phonemes_file)
         self.phoneme_inventory = sorted(phoneme_inventory, key=len, reverse=True)
         self.phoneme_pattern = re.compile('|'.join(map(ipa_to_regex, self.phoneme_inventory)))
     
