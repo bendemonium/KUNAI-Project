@@ -7,7 +7,7 @@ def load_json(file_path):
     # Get the directory of the current file (utils.py)
     current_dir = os.path.dirname(os.path.abspath(__file__))
     # Construct the path to the data directory
-    data_dir = os.path.join(current_dir, '..', '..', 'data')
+    data_dir = os.path.join(current_dir, '..', '..')
     # Construct the full path to the JSON file
     full_path = os.path.join(data_dir, file_path)
     with open(full_path, 'r', encoding='utf-8') as f:
@@ -104,6 +104,9 @@ class PhonemeTokenizer:
     def tokenize(self, text: str) -> List[str]:
         """Tokenize text into phonemes."""
         return self.phoneme_pattern.findall(text)
+    
+def load_prosodic_features(file_path):
+    return load_json(file_path)
 
 language_phonemes = load_json('data/language_inventories/language_phonemes.json')
 language_allophones = load_json('data/language_inventories/language_allophones.json')

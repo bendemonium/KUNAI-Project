@@ -1,20 +1,32 @@
-{% extends 'base.html' %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPA Converter</title>
+</head>
+<body>
+    <h1>IPA Converter</h1>
+    <form method="post">
+        {% csrf_token %}
+        <div>
+            <label for="source_lang">Source Language:</label>
+            <input type="text" id="source_lang" name="source_lang" required>
+        </div>
+        <div>
+            <label for="target_lang">Target Language:</label>
+            <input type="text" id="target_lang" name="target_lang" required>
+        </div>
+        <div>
+            <label for="input_text">IPA Text:</label>
+            <textarea id="input_text" name="input_text" required></textarea>
+        </div>
+        <button type="submit">Convert</button>
+    </form>
 
-{% block content %}
-<h1>Phoneme Converter</h1>
-<form method="post">
-    {% csrf_token %}
-    <label for="source_lang">Source Language:</label>
-    <input type="text" name="source_lang" required>
-    <label for="target_lang">Target Language:</label>
-    <input type="text" name="target_lang" required>
-    <label for="input_text">Input Text:</label>
-    <textarea name="input_text" required></textarea>
-    <button type="submit">Convert</button>
-</form>
-
-{% if result %}
-<h2>Result:</h2>
-<p>{{ result }}</p>
-{% endif %}
-{% endblock %}
+    {% if result %}
+    <h2>Result:</h2>
+    <p>{{ result }}</p>
+    {% endif %}
+</body>
+</html>
