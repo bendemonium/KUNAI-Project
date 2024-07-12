@@ -1,14 +1,16 @@
 import json
 import re
 from typing import Dict, List, Any
+import os
 
-language_phonemes = load_json('data/language_inventories/language_phonemes.json')
-language_allophones = load_json('data/language_inventories/language_allophones.json')
-prosodic_features = load_json('data/language_inventories/prosodic_features.json')
-phoneme_features = load_json('data/phoneme_features/phoneme_features.json')
-
-def load_json(file_path: str) -> Dict:
-    with open(file_path, 'r', encoding='utf-8') as f:
+def load_json(file_path):
+    # Get the directory of the current file (utils.py)
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    # Construct the path to the data directory
+    data_dir = os.path.join(current_dir, '..', '..', 'data')
+    # Construct the full path to the JSON file
+    full_path = os.path.join(data_dir, file_path)
+    with open(full_path, 'r', encoding='utf-8') as f:
         return json.load(f)
 
 def get_phoneme_features(phoneme_inventory: List[str], phoneme_features_file: str) -> Dict[str, Dict[str, str]]:
@@ -103,3 +105,7 @@ class PhonemeTokenizer:
         """Tokenize text into phonemes."""
         return self.phoneme_pattern.findall(text)
 
+language_phonemes = load_json('data/language_inventories/language_phonemes.json')
+language_allophones = load_json('data/language_inventories/language_allophones.json')
+prosodic_features = load_json('data/language_inventories/prosodic_features.json')
+phoneme_features = load_json('data/phoneme_features/phoneme_features.json')

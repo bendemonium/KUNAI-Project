@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Phoneme Converter</h1>
+<form method="post">
+    {% csrf_token %}
+    <label for="source_lang">Source Language:</label>
+    <input type="text" name="source_lang" required>
+    <label for="target_lang">Target Language:</label>
+    <input type="text" name="target_lang" required>
+    <label for="input_text">Input Text:</label>
+    <textarea name="input_text" required></textarea>
+    <button type="submit">Convert</button>
+</form>
+
+{% if result %}
+<h2>Result:</h2>
+<p>{{ result }}</p>
+{% endif %}
+{% endblock %}

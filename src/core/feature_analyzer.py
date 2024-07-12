@@ -1,4 +1,4 @@
-from utils import get_phoneme_inventory, get_phoneme_features, load_json
+from core.utils import get_phoneme_inventory, get_phoneme_features, load_json
 from typing import List, Dict, Tuple
 
 class FeatureAnalyzer:
