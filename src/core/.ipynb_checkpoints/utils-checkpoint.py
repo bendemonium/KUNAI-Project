@@ -2,8 +2,10 @@ import json
 import re
 from typing import Dict, List, Any
 
-language_phonemes_file = "language_phonemes.json"
-phoneme_features_file = "phoneme_features.json"
+language_phonemes = load_json('data/language_inventories/language_phonemes.json')
+language_allophones = load_json('data/language_inventories/language_allophones.json')
+prosodic_features = load_json('data/language_inventories/prosodic_features.json')
+phoneme_features = load_json('data/phoneme_features/phoneme_features.json')
 
 def load_json(file_path: str) -> Dict:
     with open(file_path, 'r', encoding='utf-8') as f:
