@@ -11,7 +11,7 @@ class PhonemeConverter:
         if source_language == target_language:
             return source_phoneme
 
-        similar_phonemes = self.feature_analyzer.find_similar_phonemes(source_phoneme, target_language)
+        similar_phonemes = self.feature_analyzer.find_similar_phonemes(source_phoneme, source_language, target_language)
         return similar_phonemes[0][0] if similar_phonemes else source_phoneme
 
     def convert_word(self, word: List[str], source_language: str, target_language: str) -> List[str]:
