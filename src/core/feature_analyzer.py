@@ -1,16 +1,14 @@
-from core.utils import get_phoneme_inventory, get_phoneme_features, load_json
+from .utils import get_phoneme_inventory, get_phoneme_features, load_json, get_data_file_path
 from typing import List, Dict, Tuple
 
 class FeatureAnalyzer:
-    def __init__(self, language_phonemes_file: str, phoneme_features_file: str):
-        self.language_phonemes_file = language_phonemes_file
-        self.phoneme_features_file = phoneme_features_file
-        self.language_phonemes = load_json(language_phonemes_file)
-        self.all_phoneme_features = load_json(phoneme_features_file)
+    def __init__(self):
+        self.language_phonemes = load_json(get_data_file_path('language_inventories/language_phonemes.json'))
+        self.all_phoneme_features = load_json(get_data_file_path('phoneme_features/phoneme_features.json'))
 
     def get_language_features(self, language_code: str) -> Dict[str, Dict[str, str]]:
-        phoneme_inventory = get_phoneme_inventory(language_code, self.language_phonemes_file)
-        return get_phoneme_features(phoneme_inventory, self.phoneme_features_file)
+        phoneme_inventory = get_phoneme_inventory(language_code)
+        return get_phoneme_features(phoneme_inventory, 'phoneme_features/phoneme_features.json')
 
     def compare_phonemes(self, phoneme1: str, phoneme2: str) -> Tuple[List[str], List[str]]:
         features1 = self.all_phoneme_features.get(phoneme1, {})
@@ -52,22 +50,3 @@ class FeatureAnalyzer:
                 feature_counts[feature][value] = feature_counts[feature].get(value, 0) + 1
         
         return feature_counts
-
-# # Usage example
-# if __name__ == "__main__":
-#     analyzer = FeatureAnalyzer('language_phonemes.json', 'phoneme_features.json')
-    
-#     # Example: Compare two phonemes
-#     similar, different = analyzer.compare_phonemes('p', 'b')
-#     print(f"Similar features of 'p' and 'b': {similar}")
-#     print(f"Different features of 'p' and 'b': {different}")
-    
-#     # Example: Find similar phonemes in a language
-#     similar_phonemes = analyzer.find_similar_phonemes('θ', 'eng1234')
-#     print(f"Phonemes similar to 'θ' in English: {similar_phonemes[:5]}")  # Top 5 similar phonemes
-    
-#     # Example: Analyze language inventory
-#     inventory_analysis = analyzer.analyze_language_inventory('eng1234')
-#     print("English phoneme inventory analysis:")
-#     for feature, values in inventory_analysis.items():
-#         print(f"{feature}: {values}")

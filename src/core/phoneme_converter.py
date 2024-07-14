@@ -1,13 +1,11 @@
-from core.utils import get_phoneme_inventory, get_phoneme_features, load_json, load_prosodic_features
+from .utils import load_json, get_data_file_path
 from .feature_analyzer import FeatureAnalyzer
 from typing import List, Dict, Any, Tuple
 
 class PhonemeConverter:
-    def __init__(self, language_phonemes_file: str, phoneme_features_file: str, prosodic_features_file: str):
-        self.language_phonemes_file = language_phonemes_file
-        self.phoneme_features_file = phoneme_features_file
-        self.feature_analyzer = FeatureAnalyzer(language_phonemes_file, phoneme_features_file)
-        self.prosodic_features = load_prosodic_features(prosodic_features_file)
+    def __init__(self):
+        self.feature_analyzer = FeatureAnalyzer()
+        self.prosodic_features = load_json(get_data_file_path('language_inventories/prosodic_features.json'))
 
     def convert_phoneme(self, source_phoneme: str, source_language: str, target_language: str) -> str:
         if source_language == target_language:
@@ -31,8 +29,7 @@ class PhonemeConverter:
         return syllables
 
     def analyze_syllable_structure(self, phonemes: List[str], language_prosody: Dict[str, Any]) -> List[Dict[str, Any]]:
-        # Implementation of syllable structure analysis
-        # This is a placeholder and should be implemented based on linguistic rules
+        # Placeholder implementation
         return [{'onset': [], 'nucleus': [p], 'coda': []} for p in phonemes]
 
     def apply_stress_pattern(self, syllables: List[Dict[str, Any]], language_prosody: Dict[str, Any]) -> List[Dict[str, Any]]:
@@ -54,16 +51,3 @@ class PhonemeConverter:
         converted_phonemes = self.convert_word(word, source_language, target_language)
         target_prosody = self.apply_prosody(converted_phonemes, target_language)
         return converted_phonemes, target_prosody
-
-# # Usage example
-# if __name__ == "__main__":
-#     converter = PhonemeConverter('language_phonemes.json', 'phoneme_features.json', 'prosodic_features.json')
-    
-#     source_word = ['θ', 'ɪ', 'ŋ', 'k']  # "think" in English
-#     source_language = 'eng1234'
-#     target_language = 'spa1234'
-    
-#     converted_word, prosody = converter.convert_word_with_prosody(source_word, source_language, target_language)
-#     print(f"Original word: {source_word}")
-#     print(f"Converted word: {converted_word}")
-#     print(f"Prosodic structure: {prosody}")
