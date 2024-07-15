@@ -59,12 +59,12 @@ class TestUtils(unittest.TestCase):
         self.assertEqual(regex, 'p\\*')
 
     def test_phoneme_tokenizer(self):
-        input_text = 'pɪg'
+        input_text = 'pɪɡ'
         print(f"\nInput for phoneme_tokenizer: {input_text}")
         tokenizer = PhonemeTokenizer(ENGLISH_GLOTTOCODE)
         tokens = tokenizer.tokenize(input_text)
         print(f"Output of phoneme_tokenizer: {tokens}")
-        self.assertEqual(tokens, ['p', 'ɪ', 'g'])
+        self.assertEqual(tokens, ['p', 'ɪ', 'ɡ'])
 
     def test_global_data_loaded(self):
         print("\nChecking global data loaded:")
